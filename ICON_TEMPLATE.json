@@ -1,0 +1,15 @@
+{
+  "id": "icon-name",
+  "name": "Icon Name",
+  "symbol": "SYMBOL",
+  "category": "cryptocurrency",
+  "tags": ["tag1", "tag2", "tag3"],
+  "svgPath": "/icons/svg/cryptocurrency/icon-name.svg",
+  "pngPath": "/icons/png/cryptocurrency/icon-name",
+  "sizes": [32, 64, 128],
+  "addedDate": "2024-01-20",
+  "color": "#000000",
+  "description": "Icon description here",
+  "website": "https://example.com"
+}
+
