@@ -19,8 +19,8 @@ export default function IconGrid() {
 
   const handleDownloadPNG = (e: React.MouseEvent, icon: Icon) => {
     e.stopPropagation()
-    // Default to 64px PNG
-    downloadPNG(icon.pngPath, icon.name, 64)
+    // Default to 128px PNG
+    downloadPNG(icon.pngPath, icon.name, 128)
   }
 
   return (

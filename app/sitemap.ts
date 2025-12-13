@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next'
 import iconsMetadata from '@/data/icons-metadata.json'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://cryptologo.com'
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://cryptologo.org'
   
   // Static routes
   const routes: MetadataRoute.Sitemap = [
