@@ -33,7 +33,7 @@ export default function Sidebar() {
   }
 
   const toggleFormat = (format: string) => {
-    setSelectedFormats(prev =>
+    setSelectedFormats((prev: string[]) =>
       prev.includes(format)
         ? prev.filter(f => f !== format)
         : [...prev, format]
@@ -41,7 +41,7 @@ export default function Sidebar() {
   }
 
   const toggleTag = (tag: string) => {
-    setSelectedTags(prev =>
+    setSelectedTags((prev: string[]) =>
       prev.includes(tag)
         ? prev.filter(t => t !== tag)
         : [...prev, tag]

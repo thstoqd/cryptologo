@@ -13,9 +13,9 @@ interface IconContextType {
   selectedCategory: string | null
   setSelectedCategory: (category: string | null) => void
   selectedFormats: string[]
-  setSelectedFormats: (formats: string[]) => void
+  setSelectedFormats: React.Dispatch<React.SetStateAction<string[]>>
   selectedTags: string[]
-  setSelectedTags: (tags: string[]) => void
+  setSelectedTags: React.Dispatch<React.SetStateAction<string[]>>
   sortBy: string
   setSortBy: (sort: string) => void
   getCategoryCount: (categoryId: string) => number
