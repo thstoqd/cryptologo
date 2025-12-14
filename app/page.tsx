@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, Suspense } from 'react'
+import { useEffect } from 'react'
 import { useSearchParams } from 'next/navigation'
 import Header from '@/components/Header'
 import Hero from '@/components/Hero'
@@ -9,7 +9,7 @@ import IconGrid from '@/components/IconGrid'
 import Footer from '@/components/Footer'
 import { useIcons } from '@/lib/context/IconContext'
 
-function HomeContent() {
+export default function Home() {
   const searchParams = useSearchParams()
   const { setSelectedCategory } = useIcons()
 
@@ -34,16 +34,3 @@ function HomeContent() {
     </div>
   )
 }
-
-export default function Home() {
-  return (
-    <Suspense fallback={
-      <div className="min-h-screen flex items-center justify-center">
-        <div className="text-gray-500">Loading...</div>
-      </div>
-    }>
-      <HomeContent />
-    </Suspense>
-  )
-}
-
