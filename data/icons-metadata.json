@@ -52,8 +52,8 @@
       "order": 7
     },
     {
-      "id": "meme-coin",
-      "name": "Meme Coin",
+      "id": "memes",
+      "name": "Memes",
       "icon": "🐕",
       "description": "Popular meme cryptocurrencies",
       "order": 8
@@ -234,11 +234,11 @@
       "id": "dogecoin",
       "name": "Dogecoin",
       "symbol": "DOGE",
-      "category": "meme-coin",
-      "categories": ["cryptocurrency", "meme-coin"],
-      "tags": ["meme-coin", "doge", "dogecoin"],
-      "svgPath": "/icons/svg/meme-coin/dogecoin.svg",
-      "pngPath": "/icons/png/meme-coin/dogecoin",
+      "category": "memes",
+      "categories": ["cryptocurrency", "memes"],
+      "tags": ["memes", "doge", "dogecoin"],
+      "svgPath": "/icons/svg/cryptocurrency/dogecoin.svg",
+      "pngPath": "/icons/png/cryptocurrency/dogecoin",
       "sizes": [32, 64, 128],
       "addedDate": "2024-01-20",
       "color": "#C2A633",

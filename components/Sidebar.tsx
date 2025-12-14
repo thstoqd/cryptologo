@@ -1,10 +1,10 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { Suspense } from 'react'
 import { useRouter, useSearchParams } from 'next/navigation'
 import { useIcons } from '@/lib/context/IconContext'
 
-export default function Sidebar() {
+function SidebarContent() {
   const {
     categories,
     selectedCategory,
@@ -15,9 +15,9 @@ export default function Sidebar() {
     setSelectedTags,
     getCategoryCount,
     getAllTags,
+    sidebarOpen,
+    setSidebarOpen,
   } = useIcons()
-
-  const [isOpen, setIsOpen] = useState(false)
   const router = useRouter()
   const searchParams = useSearchParams()
 
@@ -57,40 +57,51 @@ export default function Sidebar() {
 
   return (
     <>
-      {/* Mobile Menu Button */}
-      <button
-        onClick={() => setIsOpen(!isOpen)}
-        className="lg:hidden fixed top-20 left-4 z-40 p-2 bg-white border border-gray-300 rounded-md shadow-md"
-      >
-        <svg
-          className="h-6 w-6"
-          fill="none"
-          stroke="currentColor"
-          viewBox="0 0 24 24"
-        >
-          <path
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            strokeWidth={2}
-            d="M4 6h16M4 12h16M4 18h16"
-          />
-        </svg>
-      </button>
+      {/* Mobile Overlay */}
+      {sidebarOpen && (
+        <div
+          className="lg:hidden fixed inset-0 bg-black/60 z-30 transition-opacity duration-300"
+          onClick={() => setSidebarOpen(false)}
+        />
+      )}
 
       {/* Sidebar */}
       <aside
         className={`
-          fixed lg:static inset-y-0 left-0 z-30
-          w-64 lg:w-72
+          fixed lg:static inset-y-0 left-0 z-40 lg:z-30
+          w-[85%] max-w-sm lg:w-72
           bg-white border-r border-gray-200
+          lg:rounded-none rounded-r-xl
+          shadow-2xl lg:shadow-none
           transform transition-transform duration-300 ease-in-out
-          ${isOpen ? 'translate-x-0' : '-translate-x-full lg:translate-x-0'}
-          pt-20 lg:pt-0
+          ${sidebarOpen ? 'translate-x-0' : '-translate-x-full lg:translate-x-0'}
+          pt-16 lg:pt-0
           overflow-y-auto
           h-screen lg:h-auto
         `}
       >
-        <div className="p-4 space-y-6">
+        {/* Mobile Close Button */}
+        <button
+          onClick={() => setSidebarOpen(false)}
+          className="lg:hidden absolute top-4 right-4 p-2 text-gray-500 hover:text-gray-700 hover:bg-gray-100 rounded-full transition-colors z-50"
+          aria-label="Close menu"
+        >
+          <svg
+            className="h-5 w-5"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M6 18L18 6M6 6l12 12"
+            />
+          </svg>
+        </button>
+
+        <div className="p-6 lg:p-4 space-y-6">
           {/* Categories */}
           <div>
             <h3 className="text-sm font-semibold text-gray-700 uppercase tracking-wider mb-3">
@@ -189,16 +200,25 @@ export default function Sidebar() {
             </div>
           )}
         </div>
-
-        {/* Mobile Overlay */}
-        {isOpen && (
-          <div
-            className="lg:hidden fixed inset-0 bg-black bg-opacity-50 z-20"
-            onClick={() => setIsOpen(false)}
-          />
-        )}
       </aside>
     </>
+  )
+}
+
+export default function Sidebar() {
+  return (
+    <Suspense fallback={
+      <aside className="hidden lg:block w-72 bg-white border-r border-gray-200">
+        <div className="p-4">
+          <div className="animate-pulse space-y-4">
+            <div className="h-4 bg-gray-200 rounded w-3/4"></div>
+            <div className="h-4 bg-gray-200 rounded w-1/2"></div>
+          </div>
+        </div>
+      </aside>
+    }>
+      <SidebarContent />
+    </Suspense>
   )
 }
 

@@ -20,6 +20,8 @@ interface IconContextType {
   setSortBy: (sort: string) => void
   getCategoryCount: (categoryId: string) => number
   getAllTags: () => string[]
+  sidebarOpen: boolean
+  setSidebarOpen: (open: boolean) => void
 }
 
 const IconContext = createContext<IconContextType | undefined>(undefined)
@@ -32,6 +34,7 @@ export function IconProvider({ children }: { children: ReactNode }) {
   const [selectedFormats, setSelectedFormats] = useState<string[]>(['svg', 'png'])
   const [selectedTags, setSelectedTags] = useState<string[]>([])
   const [sortBy, setSortBy] = useState('latest')
+  const [sidebarOpen, setSidebarOpen] = useState(false)
 
   // Get all unique tags
   const getAllTags = () => {
@@ -153,6 +156,8 @@ export function IconProvider({ children }: { children: ReactNode }) {
         setSortBy,
         getCategoryCount,
         getAllTags,
+        sidebarOpen,
+        setSidebarOpen,
       }}
     >
       {children}

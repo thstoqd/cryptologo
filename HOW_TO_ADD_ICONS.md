@@ -84,7 +84,7 @@ public/icons/svg/cryptocurrency/bitcoin.svg
 - `wallet` - 钱包
 - `layer-2` - Layer 2
 - `stablecoin` - 稳定币
-- `meme-coin` - Meme 币
+- `memes` - Meme 币
 - `infrastructure` - 基础设施
 - `other` - 其他
 
