@@ -17,7 +17,9 @@ export default function Header() {
               alt="Cryptologo"
               className="h-5 w-5 sm:h-6 sm:w-6"
             />
-            <h1 className="text-base sm:text-lg font-semibold text-gray-900">Cryptologo</h1>
+            <h1 className="text-base sm:text-lg font-semibold bg-gradient-to-r from-blue-600 via-purple-600 to-orange-500 bg-clip-text text-transparent">
+              Cryptologo
+            </h1>
           </Link>
 
           {/* Mobile Menu Button */}

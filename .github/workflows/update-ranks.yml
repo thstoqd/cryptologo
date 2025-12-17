@@ -1,0 +1,57 @@
+name: 更新代币排名
+
+on:
+  # 每天 UTC 00:00 (北京时间 08:00) 自动运行
+  schedule:
+    - cron: '0 0 * * *'
+  
+  # 允许手动触发
+  workflow_dispatch:
+
+jobs:
+  update-ranks:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: 安装依赖
+        run: npm ci
+
+      - name: 更新代币排名
+        env:
+          COINMARKETCAP_API_KEY: ${{ secrets.COINMARKETCAP_API_KEY }}
+        run: node scripts/update-ranks.js
+
+      - name: 检查是否有更改
+        id: verify-changed
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 提交更改
+        if: steps.verify-changed.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/icons-metadata.json
+          git commit -m "chore: 自动更新代币排名 [skip ci]"
+          git push
+
+      - name: 输出结果
+        if: steps.verify-changed.outputs.changed == 'false'
+        run: echo "没有排名更新，跳过提交"
+

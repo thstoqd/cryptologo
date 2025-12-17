@@ -13,7 +13,7 @@ export default function Hero() {
             Free Cryptocurrency Icon Library
           </h2>
           <p className="text-sm md:text-base text-gray-600 mb-4">
-            Download high-quality SVG and PNG icons for your projects
+            Download high-quality web3 SVG and PNG icons
           </p>
           
           {/* Search Bar */}
@@ -54,7 +54,7 @@ export default function Hero() {
             </div>
             <div className="flex items-center gap-2">
               <span className="text-2xl">🆓</span>
-              <span>Free Download</span>
+              <span>Free Download Forever</span>
             </div>
           </div>
         </div>

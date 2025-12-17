@@ -26,24 +26,26 @@ export default function IconGrid() {
   return (
     <div>
       {/* Top Bar */}
-      <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between mb-6 gap-4">
-        <div>
-          <h2 className="text-2xl font-bold text-gray-900">
-            {currentCategory ? currentCategory.name : 'All Icons'}
-          </h2>
-          <p className="text-sm text-gray-600 mt-1">
-            Showing {filteredIcons.length} {filteredIcons.length === 1 ? 'icon' : 'icons'}
-          </p>
-        </div>
-        <div className="flex items-center gap-4">
-          <select
-            value={sortBy}
-            onChange={(e) => setSortBy(e.target.value)}
-            className="px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500"
-          >
-            <option value="latest">Rank</option>
-            <option value="name">Name A-Z</option>
-          </select>
+      <div className="mb-6">
+        <div className="flex flex-row items-center justify-between gap-4">
+          <div className="flex items-center gap-2 flex-wrap">
+            <h2 className="text-2xl font-bold text-gray-900">
+              {currentCategory ? currentCategory.name : 'All Icons'}
+            </h2>
+            <span className="text-sm text-gray-900">
+              ({filteredIcons.length} {filteredIcons.length === 1 ? 'icon' : 'icons'})
+            </span>
+          </div>
+          <div className="flex items-center gap-4">
+            <select
+              value={sortBy}
+              onChange={(e) => setSortBy(e.target.value)}
+              className="px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500"
+            >
+              <option value="latest">Rank</option>
+              <option value="name">Name A-Z</option>
+            </select>
+          </div>
         </div>
       </div>
 
@@ -54,7 +56,7 @@ export default function IconGrid() {
           <p className="text-gray-400 text-sm mt-2">Try adjusting your filters</p>
         </div>
       ) : (
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-10 gap-4">
           {filteredIcons.map((icon) => (
             <Link
               key={icon.id}

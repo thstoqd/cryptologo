@@ -55,9 +55,11 @@ export default function IconDetailPageClient({ id }: { id: string }) {
               <img
                 src="/logo.svg"
                 alt="Cryptologo"
-                className="h-6 w-6"
+                className="h-5 w-5 sm:h-6 sm:w-6"
               />
-              <span className="text-2xl font-bold text-gray-900">Cryptologo</span>
+              <span className="text-base sm:text-lg font-semibold bg-gradient-to-r from-blue-600 via-purple-600 to-orange-500 bg-clip-text text-transparent">
+                Cryptologo
+              </span>
             </Link>
           </div>
         </div>
