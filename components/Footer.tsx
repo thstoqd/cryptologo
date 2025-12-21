@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 export default function Footer() {
   return (
     <footer className="bg-gray-50 border-t border-gray-200 mt-12">
@@ -25,9 +27,9 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="#" className="text-sm text-gray-600 hover:text-gray-900">
-                  Contribute
-                </a>
+                <Link href="/submit" className="text-sm text-gray-600 hover:text-gray-900">
+                  Submit New Token
+                </Link>
               </li>
             </ul>
           </div>
