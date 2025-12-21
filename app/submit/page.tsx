@@ -23,6 +23,15 @@ export default function SubmitPage() {
   const [errors, setErrors] = useState<Record<string, string>>({})
   const [isSubmitting, setIsSubmitting] = useState(false)
   const [submitSuccess, setSubmitSuccess] = useState(false)
+  const [submittedData, setSubmittedData] = useState<{
+    email: string
+    tokenName: string
+    tokenSymbol: string
+    website: string
+    categories: string[]
+    description: string
+    svgLink: string
+  } | null>(null)
 
   const categories = iconsMetadata.categories as Category[]
   const existingIcons = iconsMetadata.icons as Icon[]
@@ -151,6 +160,23 @@ export default function SubmitPage() {
       })
 
       if (response.ok) {
+        // 保存提交的数据用于成功页面显示
+        const categoryNames = selectedCategories
+          .map((id) => {
+            const category = categories.find((cat) => cat.id === id)
+            return category?.name || id
+          })
+        
+        setSubmittedData({
+          email: formData.email,
+          tokenName: formData.tokenName,
+          tokenSymbol: formData.tokenSymbol,
+          website: formData.website,
+          categories: categoryNames,
+          description: formData.description,
+          svgLink: formData.svgLink,
+        })
+        
         setSubmitSuccess(true)
         // 重置表单
         setFormData({
@@ -203,15 +229,84 @@ export default function SubmitPage() {
               <p className="text-lg text-gray-600 mb-4">
                 Thank you for your submission!
               </p>
-              <div className="bg-gray-50 rounded-lg p-6 mb-6 text-left">
-                <p className="text-sm text-gray-600 mb-2">
-                  <span className="font-semibold">Token:</span>{' '}
-                  {formData.tokenName} ({formData.tokenSymbol})
-                </p>
-                <p className="text-sm text-gray-600">
-                  <span className="font-semibold">Email:</span> {formData.email}
-                </p>
-              </div>
+              {submittedData && (
+                <div className="bg-gray-50 rounded-lg p-6 mb-6 text-left">
+                  <div className="space-y-3">
+                    <div>
+                      <span className="font-semibold text-gray-700">Token:</span>
+                      <p className="text-gray-600 mt-1">
+                        {submittedData.tokenName} ({submittedData.tokenSymbol})
+                      </p>
+                    </div>
+                    
+                    <div>
+                      <span className="font-semibold text-gray-700">Email:</span>
+                      <p className="text-gray-600 mt-1">{submittedData.email}</p>
+                    </div>
+                    
+                    <div>
+                      <span className="font-semibold text-gray-700">Categories:</span>
+                      <div className="flex flex-wrap gap-2 mt-1">
+                        {submittedData.categories.map((cat, index) => {
+                          const category = categories.find((c) => c.name === cat)
+                          return (
+                            <span
+                              key={index}
+                              className="inline-flex items-center px-3 py-1 rounded-md bg-blue-100 text-blue-800 text-sm font-medium"
+                            >
+                              {category?.icon && (
+                                <span className="mr-1">{category.icon}</span>
+                              )}
+                              {cat}
+                            </span>
+                          )
+                        })}
+                      </div>
+                    </div>
+                    
+                    <div>
+                      <span className="font-semibold text-gray-700">Official Website:</span>
+                      <p className="text-gray-600 mt-1">
+                        {submittedData.website ? (
+                          <a
+                            href={submittedData.website}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-blue-600 hover:text-blue-800 underline break-all"
+                          >
+                            {submittedData.website}
+                          </a>
+                        ) : (
+                          <span className="text-gray-400">Not provided</span>
+                        )}
+                      </p>
+                    </div>
+                    
+                    {submittedData.description && (
+                      <div>
+                        <span className="font-semibold text-gray-700">Description:</span>
+                        <p className="text-gray-600 mt-1 whitespace-pre-wrap">
+                          {submittedData.description}
+                        </p>
+                      </div>
+                    )}
+                    
+                    <div>
+                      <span className="font-semibold text-gray-700">SVG Logo Link:</span>
+                      <p className="text-gray-600 mt-1">
+                        <a
+                          href={submittedData.svgLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-blue-600 hover:text-blue-800 underline break-all"
+                        >
+                          {submittedData.svgLink}
+                        </a>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              )}
               <p className="text-sm text-gray-500 mb-6">
                 We&apos;ll review your submission and get back to you soon.
               </p>
