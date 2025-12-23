@@ -62,10 +62,17 @@ export default function IconGrid() {
                 />
               </div>
 
-              {/* Icon Name */}
-              <h3 className="text-sm font-medium text-gray-900 text-center truncate">
-                {icon.name}
-              </h3>
+              {/* Icon Name and Symbol */}
+              <div className="text-center">
+                <h3 className="text-sm font-medium text-gray-900 truncate">
+                  {icon.name}
+                </h3>
+                {icon.symbol && (
+                  <p className="text-xs text-gray-500 mt-1">
+                    {icon.symbol}
+                  </p>
+                )}
+              </div>
             </Link>
           ))}
         </div>
