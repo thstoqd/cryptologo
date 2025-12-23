@@ -155,10 +155,13 @@ export default function SubmitPage() {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
+          'Accept': 'application/json',
         },
         body: JSON.stringify(submissionData),
       })
 
+      const responseData = await response.json().catch(() => ({}))
+      
       if (response.ok) {
         // 保存提交的数据用于成功页面显示
         const categoryNames = selectedCategories
@@ -189,11 +192,14 @@ export default function SubmitPage() {
         })
         setSelectedCategories([])
       } else {
-        throw new Error('Submission failed')
+        // 显示更详细的错误信息
+        const errorMessage = responseData.error || responseData.message || `Submission failed (Status: ${response.status})`
+        throw new Error(errorMessage)
       }
     } catch (error) {
+      console.error('Form submission error:', error)
       setErrors({
-        submit: 'Failed to submit. Please try again later.',
+        submit: error instanceof Error ? error.message : 'Failed to submit. Please try again later.',
       })
     } finally {
       setIsSubmitting(false)

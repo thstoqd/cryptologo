@@ -1,9 +1,7 @@
 'use client'
 
 import { useIcons } from '@/lib/context/IconContext'
-import { downloadSVG, downloadPNG } from '@/lib/utils/download'
 import Link from 'next/link'
-import { Icon } from '@/lib/types'
 
 export default function IconGrid() {
   const { filteredIcons, sortBy, setSortBy, selectedCategory, categories } = useIcons()
@@ -11,17 +9,6 @@ export default function IconGrid() {
   const currentCategory = selectedCategory
     ? categories.find(c => c.id === selectedCategory)
     : null
-
-  const handleDownloadSVG = (e: React.MouseEvent, icon: Icon) => {
-    e.stopPropagation()
-    downloadSVG(icon.svgPath, icon.name)
-  }
-
-  const handleDownloadPNG = (e: React.MouseEvent, icon: Icon) => {
-    e.stopPropagation()
-    // Default to 128px PNG
-    downloadPNG(icon.pngPath, icon.name, 128)
-  }
 
   return (
     <div>
@@ -79,22 +66,6 @@ export default function IconGrid() {
               <h3 className="text-sm font-medium text-gray-900 text-center truncate">
                 {icon.name}
               </h3>
-
-              {/* Hover Overlay */}
-              <div className="absolute inset-0 bg-primary-500 bg-opacity-90 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200 flex items-center justify-center gap-2">
-                <button
-                  onClick={(e) => handleDownloadSVG(e, icon)}
-                  className="px-3 py-1.5 bg-white text-primary-600 text-xs font-medium rounded-md hover:bg-gray-50"
-                >
-                  SVG
-                </button>
-                <button
-                  onClick={(e) => handleDownloadPNG(e, icon)}
-                  className="px-3 py-1.5 bg-white text-primary-600 text-xs font-medium rounded-md hover:bg-gray-50"
-                >
-                  PNG
-                </button>
-              </div>
             </Link>
           ))}
         </div>
