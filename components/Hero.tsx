@@ -10,7 +10,7 @@ export default function Hero() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
           <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-2">
-            Free Cryptocurrency Icon Library
+          Free Official Cryptocurrency Icon Library
           </h2>
           <p className="text-sm md:text-base text-gray-600 mb-4">
             Download high-quality web3 SVG and PNG icons
@@ -21,7 +21,7 @@ export default function Hero() {
             <div className="relative">
               <input
                 type="text"
-                placeholder="Search for icons..."
+                placeholder="Search icons by name or symbol"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 className="w-full px-4 py-2.5 pl-10 pr-4 text-base text-gray-700 bg-white border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent"

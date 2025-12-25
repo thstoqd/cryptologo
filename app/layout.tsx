@@ -3,7 +3,7 @@ import './globals.css'
 import { IconProvider } from '@/lib/context/IconContext'
 
 export const metadata: Metadata = {
-  title: 'Cryptologo - Free Cryptocurrency Icon Library',
+  title: 'Cryptologo - Free Official Cryptocurrency Icon Library',
   description: 'Download free high-quality SVG and PNG cryptocurrency icons. Search and download Bitcoin, Ethereum, and thousands of crypto icons for your projects.',
   keywords: ['cryptocurrency icons', 'crypto icons', 'bitcoin icon', 'ethereum icon', 'free icons', 'SVG icons', 'PNG icons', 'crypto logo'],
   authors: [{ name: 'Cryptologo' }],
@@ -19,13 +19,13 @@ export const metadata: Metadata = {
     canonical: '/',
   },
   openGraph: {
-    title: 'Cryptologo - Free Cryptocurrency Icon Library',
-    description: 'Download free high-quality SVG and PNG cryptocurrency icons',
+    title: 'Free Official Cryptocurrency Icon Library',
+    description: 'Download high-quality web3 SVG and PNG icons',
     url: '/',
     siteName: 'Cryptologo',
     images: [
       {
-        url: '/logo-512.svg',
+        url: '/logo-512.png',
         width: 512,
         height: 512,
         alt: 'Cryptologo Logo',
@@ -36,9 +36,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Cryptologo - Free Cryptocurrency Icon Library',
-    description: 'Download free high-quality SVG and PNG cryptocurrency icons',
-    images: ['/logo-512.svg'],
+    title: 'Free Official Cryptocurrency Icon Library',
+    description: 'Download high-quality web3 SVG and PNG icons',
+    images: ['/logo-512.png'],
   },
   robots: {
     index: true,
@@ -54,10 +54,10 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       { url: '/favicon.ico', sizes: 'any' },
-      { url: '/logo.svg', type: 'image/svg+xml' },
+      { url: '/favicon-128.png', type: 'image/png', sizes: '128x128' },
     ],
     apple: [
-      { url: '/logo-512.svg', sizes: '512x512', type: 'image/svg+xml' },
+      { url: '/logo-512.png', sizes: '512x512', type: 'image/png' },
     ],
     shortcut: '/favicon.ico',
   },
