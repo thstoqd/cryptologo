@@ -2506,22 +2506,7 @@
       "website": "https://icon.foundation",
       "rank": 165
     },
-    {
-      "id": "zcoin",
-      "name": "Firo",
-      "symbol": "FIRO",
-      "category": "cryptocurrency",
-      "categories": ["cryptocurrency"],
-      "tags": ["cryptocurrency", "privacy", "firo", "zcoin"],
-      "svgPath": "/icons/svg/cryptocurrency/firo.svg",
-      "pngPath": "/icons/png/cryptocurrency/firo",
-      "sizes": [32, 64, 128],
-      "addedDate": "2024-01-20",
-      "color": "#000000",
-      "description": "Firo (FIRO) - Privacy-focused cryptocurrency",
-      "website": "https://firo.org",
-      "rank": 166
-    },
+
     {
       "id": "siacoin",
       "name": "Siacoin",
