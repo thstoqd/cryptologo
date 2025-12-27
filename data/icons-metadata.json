@@ -1546,22 +1546,7 @@
       "website": "https://aioz.network",
       "rank": 104
     },
-    {
-      "id": "fetch-ai",
-      "name": "Fetch.ai",
-      "symbol": "FET",
-      "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "ai", "fetch", "fetch-ai"],
-      "svgPath": "/icons/svg/cryptocurrency/fetch-ai.svg",
-      "pngPath": "/icons/png/cryptocurrency/fetch-ai",
-      "sizes": [32, 64, 128],
-      "addedDate": "2024-01-20",
-      "color": "#000000",
-      "description": "Fetch.ai (FET) - AI-powered blockchain platform for autonomous agents",
-      "website": "https://fetch.ai",
-      "rank": 105
-    },
+ 
     {
       "id": "oasis-network",
       "name": "Oasis Network",
