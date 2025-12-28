@@ -763,6 +763,38 @@
       "rank": 52
     },
     {
+      "id": "ontology",
+      "name": "Ontology",
+      "symbol": "ONT",
+      "category": "chain",
+      "categories": ["cryptocurrency", "chain"],
+      "tags": ["chain", "ont", "ontology"],
+      "svgPath": "/icons/svg/cryptocurrency/ontology.svg",
+      "pngPath": "/icons/png/cryptocurrency/ontology",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#32A4BE",
+      "description": "Ontology (ONT) - High-performance public blockchain and distributed trust collaboration platform",
+      "website": "https://ont.io",
+      "rank": 53
+    },
+    {
+      "id": "gas",
+      "name": "Gas",
+      "symbol": "GAS",
+      "category": "chain",
+      "categories": ["cryptocurrency", "chain"],
+      "tags": ["chain", "gas", "neo-gas"],
+      "svgPath": "/icons/svg/cryptocurrency/gas.svg",
+      "pngPath": "/icons/png/cryptocurrency/gas",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#58BF00",
+      "description": "Neo Gas (GAS) - Utility token for Neo blockchain network transactions",
+      "website": "https://neo.org",
+      "rank": 54
+    },
+    {
       "id": "kucoin-token",
       "name": "KuCoin Token",
       "symbol": "KCS",
@@ -809,6 +841,22 @@
       "description": "BitTorrent (BTT) - Decentralized file-sharing protocol",
       "website": "https://www.bittorrent.com",
       "rank": 57
+    },
+    {
+      "id": "neo",
+      "name": "Neo",
+      "symbol": "NEO",
+      "category": "chain",
+      "categories": ["cryptocurrency", "chain"],
+      "tags": ["chain", "neo", "smart-contracts"],
+      "svgPath": "/icons/svg/cryptocurrency/neo.svg",
+      "pngPath": "/icons/png/cryptocurrency/neo",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#58BF00",
+      "description": "Neo (NEO) - Smart contract platform for digital assets",
+      "website": "https://neo.org",
+      "rank": 58
     },
     {
       "id": "dash",
@@ -923,6 +971,22 @@
       "rank": 65
     },
     {
+      "id": "ontology-gas",
+      "name": "Ontology Gas",
+      "symbol": "ONG",
+      "category": "chain",
+      "categories": ["cryptocurrency", "chain"],
+      "tags": ["chain", "ong", "ontology-gas"],
+      "svgPath": "/icons/svg/cryptocurrency/ontology-gas.svg",
+      "pngPath": "/icons/png/cryptocurrency/ontology-gas",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#32A4BE",
+      "description": "Ontology Gas (ONG) - Utility token for Ontology network transactions",
+      "website": "https://ont.io",
+      "rank": 66
+    },
+    {
       "id": "render",
       "name": "Render",
       "symbol": "RNDR",
@@ -936,7 +1000,7 @@
       "color": "#000000",
       "description": "Render (RNDR) - Distributed GPU rendering network",
       "website": "https://rendernetwork.com",
-      "rank": 66
+      "rank": 67
     },
     {
       "id": "injective",
@@ -952,7 +1016,7 @@
       "color": "#000000",
       "description": "Injective (INJ) - Decentralized exchange protocol",
       "website": "https://injective.com",
-      "rank": 67
+      "rank": 68
     },
     {
       "id": "celestia",
@@ -968,7 +1032,7 @@
       "color": "#000000",
       "description": "Celestia (TIA) - Modular blockchain network",
       "website": "https://celestia.org",
-      "rank": 68
+      "rank": 69
     },
     {
       "id": "bonk",
@@ -984,7 +1048,7 @@
       "color": "#000000",
       "description": "Bonk (BONK) - Solana meme token",
       "website": "https://bonkcoin.com",
-      "rank": 69
+      "rank": 70
     },
     {
       "id": "jupiter",
@@ -1000,7 +1064,7 @@
       "color": "#000000",
       "description": "Jupiter (JUP) - Solana DEX aggregator",
       "website": "https://jup.ag",
-      "rank": 70
+      "rank": 71
     },
     {
       "id": "mantle",
@@ -1016,7 +1080,7 @@
       "color": "#000000",
       "description": "Mantle (MNT) - Ethereum Layer 2 network",
       "website": "https://www.mantle.xyz",
-      "rank": 71
+      "rank": 72
     },
     {
       "id": "sei",
@@ -1032,7 +1096,7 @@
       "color": "#000000",
       "description": "Sei (SEI) - High-performance trading blockchain",
       "website": "https://www.sei.io",
-      "rank": 72
+      "rank": 73
     },
     {
       "id": "ondo",
@@ -1048,7 +1112,7 @@
       "color": "#000000",
       "description": "Ondo (ONDO) - Real-world asset tokenization",
       "website": "https://ondo.finance",
-      "rank": 73
+      "rank": 74
     },
     {
       "id": "jasmy",
@@ -1064,7 +1128,7 @@
       "color": "#00D4FF",
       "description": "JasmyCoin (JASMY) - IoT data democracy platform",
       "website": "https://jasmy.co.jp",
-      "rank": 74
+      "rank": 75
     },
     {
       "id": "ethena",
@@ -1080,7 +1144,7 @@
       "color": "#000000",
       "description": "Ethena (ENA) - Synthetic dollar protocol governance token",
       "website": "https://www.ethena.io",
-      "rank": 75
+      "rank": 76
     },
     {
       "id": "wrapped-bitcoin",
@@ -1096,7 +1160,7 @@
       "color": "#F7931A",
       "description": "Wrapped Bitcoin (WBTC) - ERC-20 token backed by Bitcoin",
       "website": "https://www.wbtc.network",
-      "rank": 76
+      "rank": 77
     },
     {
       "id": "toncoin",
@@ -1112,7 +1176,7 @@
       "color": "#0088CC",
       "description": "Toncoin (TON) - The Open Network blockchain",
       "website": "https://ton.org",
-      "rank": 77
+      "rank": 78
     },
     {
       "id": "internet-computer",
@@ -1128,7 +1192,7 @@
       "color": "#000000",
       "description": "Internet Computer (ICP) - Decentralized cloud computing platform",
       "website": "https://internetcomputer.org",
-      "rank": 78
+      "rank": 79
     },
     {
       "id": "stacks",
@@ -1144,7 +1208,7 @@
       "color": "#5546FF",
       "description": "Stacks (STX) - Bitcoin Layer 2 for smart contracts",
       "website": "https://www.stacks.co",
-      "rank": 79
+      "rank": 80
     },
     {
       "id": "cronos",
@@ -1160,7 +1224,7 @@
       "color": "#1A1A1A",
       "description": "Cronos (CRO) - Crypto.com blockchain network",
       "website": "https://cronos.org",
-      "rank": 80
+      "rank": 81
     },
     {
       "id": "worldcoin",
@@ -1176,7 +1240,7 @@
       "color": "#000000",
       "description": "Worldcoin (WLD) - Digital identity and global financial network",
       "website": "https://worldcoin.org",
-      "rank": 81
+      "rank": 82
     },
     {
       "id": "floki",
@@ -1192,7 +1256,7 @@
       "color": "#000000",
       "description": "Floki (FLOKI) - Meme cryptocurrency inspired by Elon Musk's dog",
       "website": "https://floki.com",
-      "rank": 82
+      "rank": 83
     },
     {
       "id": "pepe",
@@ -1208,7 +1272,7 @@
       "color": "#000000",
       "description": "Pepe (PEPE) - Meme cryptocurrency based on the Pepe the Frog meme",
       "website": "https://pepe.vip",
-      "rank": 83
+      "rank": 84
     },
     {
       "id": "lido-dao",
@@ -1224,7 +1288,7 @@
       "color": "#000000",
       "description": "Lido DAO (LDO) - Liquid staking protocol for Ethereum and other blockchains",
       "website": "https://lido.fi",
-      "rank": 84
+      "rank": 85
     },
     {
       "id": "arweave",
@@ -1240,7 +1304,7 @@
       "color": "#000000",
       "description": "Arweave (AR) - Permanent data storage blockchain network",
       "website": "https://www.arweave.org",
-      "rank": 85
+      "rank": 86
     },
     {
       "id": "flow",
@@ -1256,7 +1320,7 @@
       "color": "#000000",
       "description": "Flow (FLOW) - Developer-friendly blockchain for games and digital assets",
       "website": "https://flow.com",
-      "rank": 86
+      "rank": 87
     },
     {
       "id": "theta-fuel",
@@ -1272,7 +1336,7 @@
       "color": "#000000",
       "description": "Theta Fuel (TFUEL) - Operational token for Theta Network video delivery",
       "website": "https://www.thetatoken.org",
-      "rank": 87
+      "rank": 88
     },
     {
       "id": "axie-infinity",
@@ -1288,7 +1352,7 @@
       "color": "#000000",
       "description": "Axie Infinity (AXS) - Play-to-earn NFT gaming platform",
       "website": "https://axieinfinity.com",
-      "rank": 88
+      "rank": 89
     },
     {
       "id": "chiliz",
@@ -1304,7 +1368,7 @@
       "color": "#000000",
       "description": "Chiliz (CHZ) - Blockchain platform for sports and entertainment fan tokens",
       "website": "https://www.chiliz.com",
-      "rank": 89
+      "rank": 90
     },
     {
       "id": "gala",
@@ -1320,7 +1384,7 @@
       "color": "#000000",
       "description": "Gala (GALA) - Gaming and entertainment blockchain platform",
       "website": "https://gala.com",
-      "rank": 90
+      "rank": 91
     },
     {
       "id": "curve-dao-token",
@@ -1336,7 +1400,7 @@
       "color": "#000000",
       "description": "Curve DAO Token (CRV) - Decentralized exchange for stablecoins and similar assets",
       "website": "https://curve.fi",
-      "rank": 91
+      "rank": 92
     },
     {
       "id": "1inch",
@@ -1352,7 +1416,7 @@
       "color": "#000000",
       "description": "1inch (1INCH) - DEX aggregator protocol for finding best swap rates",
       "website": "https://1inch.io",
-      "rank": 92
+      "rank": 93
     },
     {
       "id": "enjin-coin",
@@ -1368,7 +1432,7 @@
       "color": "#000000",
       "description": "Enjin Coin (ENJ) - Blockchain platform for gaming and NFT ecosystem",
       "website": "https://enjin.io",
-      "rank": 93
+      "rank": 94
     },
     {
       "id": "basic-attention-token",
@@ -1384,7 +1448,7 @@
       "color": "#000000",
       "description": "Basic Attention Token (BAT) - Digital advertising token for Brave browser",
       "website": "https://basicattentiontoken.org",
-      "rank": 94
+      "rank": 95
     },
     {
       "id": "zilliqa",
@@ -1400,7 +1464,7 @@
       "color": "#000000",
       "description": "Zilliqa (ZIL) - High-throughput blockchain platform with sharding technology",
       "website": "https://www.zilliqa.com",
-      "rank": 95
+      "rank": 96
     },
     {
       "id": "harmony",
@@ -1416,7 +1480,7 @@
       "color": "#000000",
       "description": "Harmony (ONE) - Fast and secure blockchain with sharding and cross-chain bridges",
       "website": "https://www.harmony.one",
-      "rank": 96
+      "rank": 97
     },
     {
       "id": "tokenfi",
@@ -1432,7 +1496,7 @@
       "color": "#000000",
       "description": "TokenFi (TOKEN) - Token launchpad and tokenization platform",
       "website": "https://tokenfi.com",
-      "rank": 97
+      "rank": 98
     },
     {
       "id": "pyth-network",
@@ -1448,7 +1512,7 @@
       "color": "#000000",
       "description": "Pyth Network (PYTH) - Decentralized oracle network for real-time market data",
       "website": "https://pyth.network",
-      "rank": 98
+      "rank": 99
     },
     {
       "id": "dydx",
@@ -1464,7 +1528,7 @@
       "color": "#000000",
       "description": "dYdX (DYDX) - Decentralized derivatives exchange protocol",
       "website": "https://dydx.exchange",
-      "rank": 99
+      "rank": 100
     },
     {
       "id": "ether-fi",
@@ -1480,7 +1544,7 @@
       "color": "#000000",
       "description": "ether.fi (ETHFI) - Non-custodial Ethereum staking protocol",
       "website": "https://ether.fi",
-      "rank": 100
+      "rank": 101
     },
     {
       "id": "starknet",
@@ -1996,14 +2060,14 @@
       "rank": 133
     },
     {
-      "id": "frax",
-      "name": "Frax",
+      "id": "legacy-frax-dollar",
+      "name": "Legacy Frax Dollar",
       "symbol": "FRAX",
       "category": "stablecoin",
       "categories": ["cryptocurrency", "stablecoin"],
       "tags": ["stablecoin", "frax"],
-      "svgPath": "/icons/svg/cryptocurrency/stablecoin/frax.svg",
-      "pngPath": "/icons/png/cryptocurrency/stablecoin/frax",
+      "svgPath": "/icons/svg/cryptocurrency/stablecoin/legacy-frax-dollar.svg",
+      "pngPath": "/icons/png/cryptocurrency/stablecoin/legacy-frax-dollar",
       "sizes": [32, 64, 128],
       "addedDate": "2024-01-20",
       "color": "#000000",
@@ -2028,14 +2092,14 @@
       "rank": 135
     },
     {
-      "id": "magic",
-      "name": "Magic",
+      "id": "treasure",
+      "name": "Treasure",
       "symbol": "MAGIC",
       "category": "other",
       "categories": ["cryptocurrency", "other"],
       "tags": ["gaming", "nft", "magic"],
-      "svgPath": "/icons/svg/cryptocurrency/magic.svg",
-      "pngPath": "/icons/png/cryptocurrency/magic",
+      "svgPath": "/icons/svg/cryptocurrency/treasure.svg",
+      "pngPath": "/icons/png/cryptocurrency/treasure",
       "sizes": [32, 64, 128],
       "addedDate": "2024-01-20",
       "color": "#000000",
@@ -2188,14 +2252,14 @@
       "rank": 145
     },
     {
-      "id": "0x",
-      "name": "0x",
+      "id": "0x-protocol",
+      "name": "0x Protocol",
       "symbol": "ZRX",
       "category": "infrastructure",
       "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "dex", "zrx", "0x"],
-      "svgPath": "/icons/svg/cryptocurrency/0x.svg",
-      "pngPath": "/icons/png/cryptocurrency/0x",
+      "tags": ["infrastructure", "dex", "zrx", "0x-protocol"],
+      "svgPath": "/icons/svg/cryptocurrency/0x-protocol.svg",
+      "pngPath": "/icons/png/cryptocurrency/0x-protocol",
       "sizes": [32, 64, 128],
       "addedDate": "2024-01-20",
       "color": "#000000",
@@ -2220,14 +2284,14 @@
       "rank": 147
     },
     {
-      "id": "kyber-network",
-      "name": "Kyber Network",
+      "id": "kyber-network-crystal-v2",
+      "name": "Kyber Network Crystal V2",
       "symbol": "KNC",
       "category": "defi",
       "categories": ["cryptocurrency", "defi"],
       "tags": ["defi", "dex", "knc", "kyber-network"],
-      "svgPath": "/icons/svg/cryptocurrency/kyber-network.svg",
-      "pngPath": "/icons/png/cryptocurrency/kyber-network",
+      "svgPath": "/icons/svg/cryptocurrency/kyber-network-crystal-v2.svg",
+      "pngPath": "/icons/png/cryptocurrency/kyber-network-crystal-v2",
       "sizes": [32, 64, 128],
       "addedDate": "2024-01-20",
       "color": "#000000",
@@ -2411,38 +2475,7 @@
       "website": "https://status.im",
       "rank": 160
     },
-    {
-      "id": "ontology",
-      "name": "Ontology",
-      "symbol": "ONT",
-      "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "ont", "ontology"],
-      "svgPath": "/icons/svg/cryptocurrency/ontology.svg",
-      "pngPath": "/icons/png/cryptocurrency/ontology",
-      "sizes": [32, 64, 128],
-      "addedDate": "2024-01-20",
-      "color": "#000000",
-      "description": "Ontology (ONT) - High-performance public blockchain and distributed trust collaboration platform",
-      "website": "https://ont.io",
-      "rank": 161
-    },
-    {
-      "id": "ontology-gas",
-      "name": "Ontology Gas",
-      "symbol": "ONG",
-      "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "ong", "ontology-gas"],
-      "svgPath": "/icons/svg/cryptocurrency/ontology-gas.svg",
-      "pngPath": "/icons/png/cryptocurrency/ontology-gas",
-      "sizes": [32, 64, 128],
-      "addedDate": "2024-01-20",
-      "color": "#000000",
-      "description": "Ontology Gas (ONG) - Utility token for Ontology network transactions",
-      "website": "https://ont.io",
-      "rank": 162
-    },
+ 
     {
       "id": "decred",
       "name": "Decred",
@@ -2715,6 +2748,326 @@
       "description": "Syscoin (SYS) - Blockchain platform for decentralized commerce",
       "website": "https://syscoin.org",
       "rank": 180
+    },
+    {
+      "id": "usd1",
+      "name": "USD1",
+      "symbol": "USD1",
+      "category": "stablecoin",
+      "categories": ["cryptocurrency", "stablecoin"],
+      "tags": ["stablecoin", "usd1"],
+      "svgPath": "/icons/svg/cryptocurrency/stablecoin/usd1.svg",
+      "pngPath": "/icons/png/cryptocurrency/stablecoin/usd1",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "USD1 (USD1) - Dollar-pegged stablecoin",
+      "website": "https://www.worldlibertyfinancial.com/usd1",
+      "rank": 181
+    },
+    {
+      "id": "bird-dog",
+      "name": "Bird Dog",
+      "symbol": "BDOG",
+      "category": "memes",
+      "categories": ["cryptocurrency", "memes"],
+      "tags": ["memes", "bsc", "bdog", "bird-dog"],
+      "svgPath": "/icons/svg/cryptocurrency/bird-dog.svg",
+      "pngPath": "/icons/png/cryptocurrency/bird-dog",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "Bird Dog (BDOG) - Meme token on BNB Chain",
+      "website": "https://coinmarketcap.com/currencies/bird-dog-bsc",
+      "rank": 182
+    },
+    {
+      "id": "helium",
+      "name": "Helium",
+      "symbol": "HNT",
+      "category": "infrastructure",
+      "categories": ["cryptocurrency", "infrastructure"],
+      "tags": ["infrastructure", "iot", "wireless", "hnt", "helium"],
+      "svgPath": "/icons/svg/cryptocurrency/helium.svg",
+      "pngPath": "/icons/png/cryptocurrency/helium",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "Helium (HNT) - Decentralized wireless network",
+      "website": "https://www.helium.com",
+      "rank": 183
+    },
+    {
+      "id": "jito",
+      "name": "Jito",
+      "symbol": "JTO",
+      "category": "defi",
+      "categories": ["cryptocurrency", "defi"],
+      "tags": ["defi", "solana", "jto", "jito"],
+      "svgPath": "/icons/svg/cryptocurrency/jito.svg",
+      "pngPath": "/icons/png/cryptocurrency/jito",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "Jito (JTO) - Solana MEV infrastructure",
+      "website": "https://www.jito.wtf",
+      "rank": 184
+    },
+    {
+      "id": "dogwifhat",
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "category": "memes",
+      "categories": ["cryptocurrency", "memes"],
+      "tags": ["memes", "solana", "wif", "dogwifhat"],
+      "svgPath": "/icons/svg/cryptocurrency/dogwifhat.svg",
+      "pngPath": "/icons/png/cryptocurrency/dogwifhat",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "dogwifhat (WIF) - Solana meme token",
+      "website": "https://dogwifcoin.org",
+      "rank": 185
+    },
+    {
+      "id": "fetch-ai",
+      "name": "Fetch.ai",
+      "symbol": "FET",
+      "category": "infrastructure",
+      "categories": ["cryptocurrency", "infrastructure"],
+      "tags": ["infrastructure", "ai", "machine-learning", "fet", "fetch-ai"],
+      "svgPath": "/icons/svg/cryptocurrency/fetch-ai.svg",
+      "pngPath": "/icons/png/cryptocurrency/fetch-ai",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "Fetch.ai (FET) - AI and machine learning blockchain platform",
+      "website": "https://fetch.ai",
+      "rank": 186
+    },
+    {
+      "id": "singularitynet",
+      "name": "SingularityNET",
+      "symbol": "AGIX",
+      "category": "infrastructure",
+      "categories": ["cryptocurrency", "infrastructure"],
+      "tags": ["infrastructure", "ai", "agix", "singularitynet"],
+      "svgPath": "/icons/svg/cryptocurrency/singularitynet.svg",
+      "pngPath": "/icons/png/cryptocurrency/singularitynet",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "SingularityNET (AGIX) - Decentralized AI marketplace",
+      "website": "https://singularitynet.io",
+      "rank": 187
+    },
+    {
+      "id": "ocean-protocol",
+      "name": "Ocean Protocol",
+      "symbol": "OCEAN",
+      "category": "infrastructure",
+      "categories": ["cryptocurrency", "infrastructure"],
+      "tags": ["infrastructure", "data", "ocean", "ocean-protocol"],
+      "svgPath": "/icons/svg/cryptocurrency/ocean-protocol.svg",
+      "pngPath": "/icons/png/cryptocurrency/ocean-protocol",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "Ocean Protocol (OCEAN) - Data exchange protocol",
+      "website": "https://oceanprotocol.com",
+      "rank": 188
+    },
+    {
+      "id": "alex-lab",
+      "name": "Alex Lab",
+      "symbol": "ALEX",
+      "category": "defi",
+      "categories": ["cryptocurrency", "defi"],
+      "tags": ["defi", "bitcoin", "alex", "alex-lab"],
+      "svgPath": "/icons/svg/cryptocurrency/alex-lab.svg",
+      "pngPath": "/icons/png/cryptocurrency/alex-lab",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "Alex Lab (ALEX) - Bitcoin DeFi protocol",
+      "website": "https://www.alexlab.co",
+      "rank": 189
+    },
+    {
+      "id": "superfarm",
+      "name": "SuperFarm",
+      "symbol": "SUPER",
+      "category": "other",
+      "categories": ["cryptocurrency", "other"],
+      "tags": ["nft", "gaming", "super", "superfarm"],
+      "svgPath": "/icons/svg/cryptocurrency/superfarm.svg",
+      "pngPath": "/icons/png/cryptocurrency/superfarm",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "SuperFarm (SUPER) - NFT and gaming platform",
+      "website": "https://superfarm.com",
+      "rank": 190
+    },
+    {
+      "id": "game-federation",
+      "name": "Game Federation",
+      "symbol": "GFT",
+      "category": "other",
+      "categories": ["cryptocurrency", "other"],
+      "tags": ["gaming", "nft", "gft", "game-federation"],
+      "svgPath": "/icons/svg/cryptocurrency/game-federation.svg",
+      "pngPath": "/icons/png/cryptocurrency/game-federation",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "Game Federation (GFT) - Gaming platform token",
+      "website": "https://gamefederation.io",
+      "rank": 191
+    },
+    {
+      "id": "fusionist",
+      "name": "Fusionist",
+      "symbol": "ACE",
+      "category": "other",
+      "categories": ["cryptocurrency", "other"],
+      "tags": ["gaming", "nft", "ace", "fusionist"],
+      "svgPath": "/icons/svg/cryptocurrency/fusionist.svg",
+      "pngPath": "/icons/png/cryptocurrency/fusionist",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "Fusionist (ACE) - Gaming and NFT ecosystem",
+      "website": "https://www.fusionist.io",
+      "rank": 192
+    },
+    {
+      "id": "nfp",
+      "name": "NFPrompt",
+      "symbol": "NFP",
+      "category": "other",
+      "categories": ["cryptocurrency", "other"],
+      "tags": ["nft", "ai", "nfp", "nfprompt"],
+      "svgPath": "/icons/svg/cryptocurrency/nfp.svg",
+      "pngPath": "/icons/png/cryptocurrency/nfp",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "NFPrompt (NFP) - AI-powered NFT platform",
+      "website": "https://nfprompt.com",
+      "rank": 193
+    },
+    {
+      "id": "sleepless-ai",
+      "name": "Sleepless AI",
+      "symbol": "AI",
+      "category": "other",
+      "categories": ["cryptocurrency", "other"],
+      "tags": ["gaming", "ai", "nft", "sleepless-ai"],
+      "svgPath": "/icons/svg/cryptocurrency/sleepless-ai.svg",
+      "pngPath": "/icons/png/cryptocurrency/sleepless-ai",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "Sleepless AI (AI) - AI-powered gaming platform",
+      "website": "https://www.sleeplessai.net",
+      "rank": 194
+    },
+    {
+      "id": "xai",
+      "name": "XAI",
+      "symbol": "XAI",
+      "category": "layer-2",
+      "categories": ["cryptocurrency", "layer-2"],
+      "tags": ["layer-2", "gaming", "xai"],
+      "svgPath": "/icons/svg/cryptocurrency/xai.svg",
+      "pngPath": "/icons/png/cryptocurrency/xai",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "XAI (XAI) - Layer 3 blockchain for gaming",
+      "website": "https://xai.games",
+      "rank": 195
+    },
+    {
+      "id": "altlayer",
+      "name": "AltLayer",
+      "symbol": "ALT",
+      "category": "layer-2",
+      "categories": ["cryptocurrency", "layer-2"],
+      "tags": ["layer-2", "scaling", "alt", "altlayer"],
+      "svgPath": "/icons/svg/cryptocurrency/altlayer.svg",
+      "pngPath": "/icons/png/cryptocurrency/altlayer",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "AltLayer (ALT) - Restaked rollup infrastructure",
+      "website": "https://altlayer.io",
+      "rank": 196
+    },
+    {
+      "id": "pixels",
+      "name": "Pixels",
+      "symbol": "PIXEL",
+      "category": "other",
+      "categories": ["cryptocurrency", "other"],
+      "tags": ["gaming", "nft", "pixel", "pixels"],
+      "svgPath": "/icons/svg/cryptocurrency/pixels.svg",
+      "pngPath": "/icons/png/cryptocurrency/pixels",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "Pixels (PIXEL) - Web3 farming game",
+      "website": "https://pixels.xyz",
+      "rank": 197
+    },
+    {
+      "id": "portal",
+      "name": "Portal",
+      "symbol": "PORTAL",
+      "category": "other",
+      "categories": ["cryptocurrency", "other"],
+      "tags": ["gaming", "cross-chain", "portal"],
+      "svgPath": "/icons/svg/cryptocurrency/portal.svg",
+      "pngPath": "/icons/png/cryptocurrency/portal",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "Portal (PORTAL) - Cross-chain gaming platform",
+      "website": "https://portal.games",
+      "rank": 198
+    },
+    {
+      "id": "pudgy-penguins",
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "category": "other",
+      "categories": ["cryptocurrency", "other"],
+      "tags": ["nft", "memes", "pengu", "pudgy-penguins"],
+      "svgPath": "/icons/svg/cryptocurrency/pudgy-penguins.svg",
+      "pngPath": "/icons/png/cryptocurrency/pudgy-penguins",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "Pudgy Penguins (PENGU) - NFT collection token",
+      "website": "https://www.pudgypenguins.com",
+      "rank": 199
+    },
+    {
+      "id": "myro",
+      "name": "Myro",
+      "symbol": "MYRO",
+      "category": "memes",
+      "categories": ["cryptocurrency", "memes"],
+      "tags": ["memes", "solana", "myro"],
+      "svgPath": "/icons/svg/cryptocurrency/myro.svg",
+      "pngPath": "/icons/png/cryptocurrency/myro",
+      "sizes": [32, 64, 128],
+      "addedDate": "2024-01-20",
+      "color": "#000000",
+      "description": "Myro (MYRO) - Solana meme token",
+      "website": "https://www.myro.vip",
+      "rank": 200
     }
   ]
 }
