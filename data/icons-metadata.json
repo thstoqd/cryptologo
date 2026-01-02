@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "lastUpdated": "2024-01-15T10:30:00Z",
-    "categories": [
+  "lastUpdated": "2026-01-02T08:51:33.083Z",
+  "categories": [
     {
       "id": "cryptocurrency",
       "name": "Cryptocurrency",
@@ -79,11 +79,21 @@
       "name": "Bitcoin",
       "symbol": "BTC",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency"],
-      "tags": ["cryptocurrency", "bitcoin", "btc"],
+      "categories": [
+        "cryptocurrency"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "bitcoin",
+        "btc"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/bitcoin.svg",
       "pngPath": "/icons/png/cryptocurrency/bitcoin",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-01",
       "color": "#F7931A",
       "description": "Bitcoin (BTC) - The first decentralized cryptocurrency",
@@ -95,11 +105,23 @@
       "name": "Ethereum",
       "symbol": "ETH",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["cryptocurrency", "chain", "evm", "eth"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "chain",
+        "evm",
+        "eth"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/ethereum.svg",
       "pngPath": "/icons/png/cryptocurrency/ethereum",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-01",
       "color": "#627EEA",
       "description": "Ethereum (ETH) - Smart contract platform",
@@ -111,11 +133,21 @@
       "name": "Tether",
       "symbol": "USDT",
       "category": "stablecoin",
-      "categories": ["cryptocurrency", "stablecoin"],
-      "tags": ["stablecoin", "usdt"],
+      "categories": [
+        "cryptocurrency",
+        "stablecoin"
+      ],
+      "tags": [
+        "stablecoin",
+        "usdt"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/stablecoin/tether.svg",
       "pngPath": "/icons/png/cryptocurrency/stablecoin/tether",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-01",
       "color": "#53AE94",
       "description": "Tether (USDT) - Stablecoin pegged to USD",
@@ -127,75 +159,133 @@
       "name": "Polygon",
       "symbol": "POL",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "evm", "layer-2", "polygon"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "evm",
+        "layer-2",
+        "polygon"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/polygon.svg",
       "pngPath": "/icons/png/cryptocurrency/polygon",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-01",
       "color": "#8247E5",
       "description": "Polygon blockchain network",
       "website": "https://polygon.technology",
-      "rank": 21
+      "rank": 58
     },
     {
       "id": "uniswap",
       "name": "Uniswap",
       "symbol": "UNI",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "dex", "swap", "uniswap"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "dex",
+        "swap",
+        "uniswap"
+      ],
       "svgPath": "/icons/svg/defi/uniswap.svg",
       "pngPath": "/icons/png/defi/uniswap",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-01",
       "color": "#FF007A",
       "description": "Uniswap - Decentralized exchange protocol",
       "website": "https://uniswap.org",
-      "rank": 22
+      "rank": 28
     },
     {
       "id": "xrp",
       "name": "XRP",
       "symbol": "XRP",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency"],
-      "tags": ["cryptocurrency", "xrp", "ripple"],
+      "categories": [
+        "cryptocurrency"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "xrp",
+        "ripple"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/xrp.svg",
       "pngPath": "/icons/png/cryptocurrency/xrp",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "XRP (XRP) - Digital payment protocol",
       "website": "https://xrpl.org",
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "bnb",
       "name": "BNB",
       "symbol": "BNB",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency", "exchange"],
-      "tags": ["cryptocurrency", "exchange", "bnb", "bsc", "binance", "chain"],
+      "categories": [
+        "cryptocurrency",
+        "exchange"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "exchange",
+        "bnb",
+        "bsc",
+        "binance",
+        "chain"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/bnb.svg",
       "pngPath": "/icons/png/cryptocurrency/bnb",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#F3BA2F",
       "description": "BNB (BNB) - Binance Coin",
       "website": "https://www.binance.com",
-      "rank": 5
+      "rank": 4
     },
     {
       "id": "usdc",
       "name": "USDC",
       "symbol": "USDC",
       "category": "stablecoin",
-      "categories": ["cryptocurrency", "stablecoin"],
-      "tags": ["stablecoin", "usdc"],
+      "categories": [
+        "cryptocurrency",
+        "stablecoin"
+      ],
+      "tags": [
+        "stablecoin",
+        "usdc"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/stablecoin/usdc.svg",
       "pngPath": "/icons/png/cryptocurrency/stablecoin/usdc",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#2775CA",
       "description": "USDC (USDC) - USD Coin stablecoin",
@@ -207,11 +297,23 @@
       "name": "Solana",
       "symbol": "SOL",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["cryptocurrency", "chain", "sol", "solana"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "chain",
+        "sol",
+        "solana"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/solana.svg",
       "pngPath": "/icons/png/cryptocurrency/solana",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#14F195",
       "description": "Solana (SOL) - High-performance blockchain",
@@ -223,11 +325,22 @@
       "name": "TRON",
       "symbol": "TRX",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "trx", "tron"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "trx",
+        "tron"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/tron.svg",
       "pngPath": "/icons/png/cryptocurrency/tron",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#FF001B",
       "description": "TRON (TRX) - Decentralized blockchain platform",
@@ -239,11 +352,22 @@
       "name": "Dogecoin",
       "symbol": "DOGE",
       "category": "memes",
-      "categories": ["cryptocurrency", "memes"],
-      "tags": ["memes", "doge", "dogecoin"],
+      "categories": [
+        "cryptocurrency",
+        "memes"
+      ],
+      "tags": [
+        "memes",
+        "doge",
+        "dogecoin"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/dogecoin.svg",
       "pngPath": "/icons/png/cryptocurrency/dogecoin",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#C2A633",
       "description": "Dogecoin (DOGE) - Meme cryptocurrency",
@@ -255,11 +379,23 @@
       "name": "Cardano",
       "symbol": "ADA",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["cryptocurrency", "chain", "ada", "cardano"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "chain",
+        "ada",
+        "cardano"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/cardano.svg",
       "pngPath": "/icons/png/cryptocurrency/cardano",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#0033AD",
       "description": "Cardano (ADA) - Third-generation blockchain platform",
@@ -271,11 +407,22 @@
       "name": "Bitcoin Cash",
       "symbol": "BCH",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency"],
-      "tags": ["cryptocurrency", "chain", "bitcoin cash", "bch"],
+      "categories": [
+        "cryptocurrency"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "chain",
+        "bitcoin cash",
+        "bch"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/bitcoin-cash.svg",
       "pngPath": "/icons/png/cryptocurrency/bitcoin-cash",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#0AC18E",
       "description": "Bitcoin Cash (BCH) - Peer-to-peer electronic cash",
@@ -287,11 +434,24 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi", "infrastructure"],
-      "tags": ["defi", "oracle", "chainlink", "link"],
+      "categories": [
+        "cryptocurrency",
+        "defi",
+        "infrastructure"
+      ],
+      "tags": [
+        "defi",
+        "oracle",
+        "chainlink",
+        "link"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/chainlink.svg",
       "pngPath": "/icons/png/cryptocurrency/chainlink",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#375BD2",
       "description": "Chainlink (LINK) - Decentralized oracle network",
@@ -303,59 +463,104 @@
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "hyperliquid", "hype"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "hyperliquid",
+        "hype"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/hyperliquid.svg",
       "pngPath": "/icons/png/cryptocurrency/hyperliquid",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#00D9FF",
       "description": "Hyperliquid (HYPE) - Decentralized exchange protocol",
       "website": "https://hyperliquid.xyz",
-      "rank": 13
+      "rank": 15
     },
     {
       "id": "leo",
       "name": "UNUS SED LEO",
       "symbol": "LEO",
       "category": "exchange",
-      "categories": ["cryptocurrency", "exchange"],
-      "tags": ["exchange", "leo", "bitfinex"],
+      "categories": [
+        "cryptocurrency",
+        "exchange"
+      ],
+      "tags": [
+        "exchange",
+        "leo",
+        "bitfinex"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/leo.svg",
       "pngPath": "/icons/png/cryptocurrency/leo",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#F7931A",
       "description": "UNUS SED LEO (LEO) - Bitfinex exchange token",
       "website": "https://www.bitfinex.com",
-      "rank": 14
+      "rank": 13
     },
     {
       "id": "stellar",
       "name": "Stellar",
       "symbol": "XLM",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "xlm", "stellar"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "xlm",
+        "stellar"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/stellar.svg",
       "pngPath": "/icons/png/cryptocurrency/stellar",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#7D00FF",
       "description": "Stellar (XLM) - Open network for money",
       "website": "https://www.stellar.org",
-      "rank": 15
+      "rank": 17
     },
     {
       "id": "monero",
       "name": "Monero",
       "symbol": "XMR",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["cryptocurrency", "monero", "xmr", "privacy"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "monero",
+        "xmr",
+        "privacy"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/monero.svg",
       "pngPath": "/icons/png/cryptocurrency/monero",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#FF6600",
       "description": "Monero (XMR) - Privacy-focused cryptocurrency",
@@ -367,27 +572,50 @@
       "name": "Zcash",
       "symbol": "ZEC",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["cryptocurrency", "zcash", "zec", "privacy"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "zcash",
+        "zec",
+        "privacy"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/zcash.svg",
       "pngPath": "/icons/png/cryptocurrency/zcash",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#F4B728",
       "description": "Zcash (ZEC) - Privacy-protecting digital currency",
       "website": "https://z.cash",
-      "rank": 17
+      "rank": 14
     },
     {
       "id": "ethena-usde",
       "name": "Ethena USDe",
       "symbol": "USDe",
       "category": "stablecoin",
-      "categories": ["cryptocurrency", "stablecoin"],
-      "tags": ["stablecoin", "usde", "ethena"],
+      "categories": [
+        "cryptocurrency",
+        "stablecoin"
+      ],
+      "tags": [
+        "stablecoin",
+        "usde",
+        "ethena"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/stablecoin/ethena-usde.svg",
       "pngPath": "/icons/png/cryptocurrency/stablecoin/ethena-usde",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#00D4FF",
       "description": "Ethena USDe (USDe) - Synthetic dollar protocol",
@@ -399,11 +627,21 @@
       "name": "Litecoin",
       "symbol": "LTC",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency"],
-      "tags": ["cryptocurrency", "litecoin", "ltc"],
+      "categories": [
+        "cryptocurrency"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "litecoin",
+        "ltc"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/litecoin.svg",
       "pngPath": "/icons/png/cryptocurrency/litecoin",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#345D9D",
       "description": "Litecoin (LTC) - Silver to Bitcoin's gold",
@@ -415,171 +653,294 @@
       "name": "Sui",
       "symbol": "SUI",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "sui"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "sui"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/sui.svg",
       "pngPath": "/icons/png/cryptocurrency/sui",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#4FA8FF",
       "description": "Sui (SUI) - Next-generation blockchain platform",
       "website": "https://sui.io",
-      "rank": 20
+      "rank": 21
     },
     {
       "id": "avalanche",
       "name": "Avalanche",
       "symbol": "AVAX",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "avax", "avalanche"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "avax",
+        "avalanche"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/avalanche.svg",
       "pngPath": "/icons/png/cryptocurrency/avalanche",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#E84142",
       "description": "Avalanche (AVAX) - High-performance blockchain platform",
       "website": "https://www.avax.network",
-      "rank": 21
+      "rank": 20
     },
     {
       "id": "cosmos",
       "name": "Cosmos",
       "symbol": "ATOM",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "atom", "cosmos"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "atom",
+        "cosmos"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/cosmos.svg",
       "pngPath": "/icons/png/cryptocurrency/cosmos",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#2E3148",
       "description": "Cosmos (ATOM) - Internet of blockchains",
       "website": "https://cosmos.network",
-      "rank": 28
+      "rank": 61
     },
     {
       "id": "algorand",
       "name": "Algorand",
       "symbol": "ALGO",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "algo", "algorand"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "algo",
+        "algorand"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/algorand.svg",
       "pngPath": "/icons/png/cryptocurrency/algorand",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Algorand (ALGO) - Pure proof-of-stake blockchain",
       "website": "https://www.algorand.com",
-      "rank": 29
+      "rank": 59
     },
     {
       "id": "vechain",
       "name": "VeChain",
       "symbol": "VET",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "vet", "vechain"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "vet",
+        "vechain"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/vechain.svg",
       "pngPath": "/icons/png/cryptocurrency/vechain",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#15BDFF",
       "description": "VeChain (VET) - Enterprise-focused blockchain platform",
       "website": "https://www.vechain.org",
-      "rank": 30
+      "rank": 65
     },
     {
       "id": "filecoin",
       "name": "Filecoin",
       "symbol": "FIL",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "storage", "fil", "filecoin"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "storage",
+        "fil",
+        "filecoin"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/filecoin.svg",
       "pngPath": "/icons/png/cryptocurrency/filecoin",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#0090FF",
       "description": "Filecoin (FIL) - Decentralized storage network",
       "website": "https://filecoin.io",
-      "rank": 31
+      "rank": 60
     },
     {
       "id": "eos",
       "name": "EOS",
       "symbol": "EOS",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "eos"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "eos"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/eos.svg",
       "pngPath": "/icons/png/cryptocurrency/eos",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "EOS (EOS) - Blockchain platform for decentralized applications",
       "website": "https://eos.io",
-      "rank": 33
+      "rank": 4213
     },
     {
       "id": "tezos",
       "name": "Tezos",
       "symbol": "XTZ",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "xtz", "tezos"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "xtz",
+        "tezos"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/tezos.svg",
       "pngPath": "/icons/png/cryptocurrency/tezos",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#2C7DF7",
       "description": "Tezos (XTZ) - Self-amending blockchain",
       "website": "https://tezos.com",
-      "rank": 34
+      "rank": 82
     },
     {
       "id": "theta-network",
       "name": "Theta Network",
       "symbol": "THETA",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "video", "theta", "theta-network"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "video",
+        "theta",
+        "theta-network"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/theta-network.svg",
       "pngPath": "/icons/png/cryptocurrency/theta-network",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#2AB8E6",
       "description": "Theta Network (THETA) - Decentralized video delivery network",
       "website": "https://www.thetatoken.org",
-      "rank": 35
+      "rank": 135
     },
     {
       "id": "maker",
       "name": "Maker",
       "symbol": "MKR",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "dao", "lending", "mkr", "maker"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "dao",
+        "lending",
+        "mkr",
+        "maker"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/maker.svg",
       "pngPath": "/icons/png/cryptocurrency/maker",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#1AAB9B",
       "description": "Maker (MKR) - Decentralized lending platform",
       "website": "https://makerdao.com",
-      "rank": 36
+      "rank": 3895
     },
     {
       "id": "aave",
       "name": "Aave",
       "symbol": "AAVE",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "lending", "aave"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "lending",
+        "aave"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/aave.svg",
       "pngPath": "/icons/png/cryptocurrency/aave",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#B6509E",
       "description": "Aave (AAVE) - Decentralized lending and borrowing protocol",
@@ -591,91 +952,161 @@
       "name": "Compound",
       "symbol": "COMP",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "lending", "comp", "compound"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "lending",
+        "comp",
+        "compound"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/compound.svg",
       "pngPath": "/icons/png/cryptocurrency/compound",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#00D395",
       "description": "Compound (COMP) - Decentralized lending protocol",
       "website": "https://compound.finance",
-      "rank": 38
+      "rank": 142
     },
     {
       "id": "elrond",
       "name": "MultiversX",
       "symbol": "EGLD",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "egld", "elrond", "multiversx"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "egld",
+        "elrond",
+        "multiversx"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/elrond.svg",
       "pngPath": "/icons/png/cryptocurrency/elrond",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "MultiversX (EGLD) - High-throughput blockchain platform for metaverse and Web3",
       "website": "https://multiversx.com",
-      "rank": 159
+      "rank": 167
     },
     {
       "id": "near-protocol",
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "near", "near-protocol"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "near",
+        "near-protocol"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/near-protocol.svg",
       "pngPath": "/icons/png/cryptocurrency/near-protocol",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "NEAR Protocol (NEAR) - Developer-friendly blockchain",
       "website": "https://near.org",
-      "rank": 40
+      "rank": 39
     },
     {
       "id": "apecoin",
       "name": "ApeCoin",
       "symbol": "APE",
       "category": "memes",
-      "categories": ["cryptocurrency", "memes"],
-      "tags": ["memes", "nft", "ape", "apecoin"],
+      "categories": [
+        "cryptocurrency",
+        "memes"
+      ],
+      "tags": [
+        "memes",
+        "nft",
+        "ape",
+        "apecoin"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/apecoin.svg",
       "pngPath": "/icons/png/cryptocurrency/apecoin",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#0052FF",
       "description": "ApeCoin (APE) - NFT and metaverse token",
       "website": "https://apecoin.com",
-      "rank": 41
+      "rank": 175
     },
     {
       "id": "the-graph",
       "name": "The Graph",
       "symbol": "GRT",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "indexing", "grt", "the-graph"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "indexing",
+        "grt",
+        "the-graph"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/the-graph.svg",
       "pngPath": "/icons/png/cryptocurrency/the-graph",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#5946D2",
       "description": "The Graph (GRT) - Decentralized indexing protocol",
       "website": "https://thegraph.com",
-      "rank": 43
+      "rank": 107
     },
     {
       "id": "fantom",
       "name": "Fantom",
       "symbol": "FTM",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "ftm", "fantom"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "ftm",
+        "fantom"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/fantom.svg",
       "pngPath": "/icons/png/cryptocurrency/fantom",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#1969FF",
       "description": "Fantom (FTM) - High-performance smart contract platform",
@@ -687,139 +1118,243 @@
       "name": "The Sandbox",
       "symbol": "SAND",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["metaverse", "gaming", "nft", "sand", "the-sandbox"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "metaverse",
+        "gaming",
+        "nft",
+        "sand",
+        "the-sandbox"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/the-sandbox.svg",
       "pngPath": "/icons/png/cryptocurrency/the-sandbox",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#00ADEF",
       "description": "The Sandbox (SAND) - Virtual gaming metaverse",
       "website": "https://www.sandbox.game",
-      "rank": 46
+      "rank": 125
     },
     {
       "id": "radix",
       "name": "Radix",
       "symbol": "XRD",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "xrd", "radix"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "xrd",
+        "radix"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/radix.svg",
       "pngPath": "/icons/png/cryptocurrency/radix",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Radix (XRD) - DeFi-focused blockchain",
       "website": "https://www.radixdlt.com",
-      "rank": 718
+      "rank": 741
     },
     {
       "id": "pax-dollar",
       "name": "Pax Dollar",
       "symbol": "USDP",
       "category": "stablecoin",
-      "categories": ["cryptocurrency", "stablecoin"],
-      "tags": ["stablecoin", "usdp", "pax-dollar"],
+      "categories": [
+        "cryptocurrency",
+        "stablecoin"
+      ],
+      "tags": [
+        "stablecoin",
+        "usdp",
+        "pax-dollar"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/stablecoin/pax-dollar.svg",
       "pngPath": "/icons/png/cryptocurrency/stablecoin/pax-dollar",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Pax Dollar (USDP) - Regulated stablecoin",
       "website": "https://paxos.com",
-      "rank": 398
+      "rank": 435
     },
     {
       "id": "synthetix",
       "name": "Synthetix",
       "symbol": "SNX",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "derivatives", "snx", "synthetix"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "derivatives",
+        "snx",
+        "synthetix"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/synthetix.svg",
       "pngPath": "/icons/png/cryptocurrency/synthetix",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#00D1FF",
       "description": "Synthetix (SNX) - Decentralized derivatives platform",
       "website": "https://synthetix.io",
-      "rank": 51
+      "rank": 177
     },
     {
       "id": "decentraland",
       "name": "Decentraland",
       "symbol": "MANA",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["metaverse", "virtual-world", "mana", "decentraland"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "metaverse",
+        "virtual-world",
+        "mana",
+        "decentraland"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/decentraland.svg",
       "pngPath": "/icons/png/cryptocurrency/decentraland",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#FF2D55",
       "description": "Decentraland (MANA) - Virtual reality platform",
       "website": "https://decentraland.org",
-      "rank": 52
+      "rank": 140
     },
     {
       "id": "ontology",
       "name": "Ontology",
       "symbol": "ONT",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "ont", "ontology"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "ont",
+        "ontology"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/ontology.svg",
       "pngPath": "/icons/png/cryptocurrency/ontology",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#32A4BE",
       "description": "Ontology (ONT) - High-performance public blockchain and distributed trust collaboration platform",
       "website": "https://ont.io",
-      "rank": 53
+      "rank": 386
     },
     {
       "id": "gas",
       "name": "Gas",
       "symbol": "GAS",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "gas", "neo-gas"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "gas",
+        "neo-gas"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/gas.svg",
       "pngPath": "/icons/png/cryptocurrency/gas",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#58BF00",
       "description": "Neo Gas (GAS) - Utility token for Neo blockchain network transactions",
       "website": "https://neo.org",
-      "rank": 54
+      "rank": 191
     },
     {
       "id": "kucoin-token",
       "name": "KuCoin Token",
       "symbol": "KCS",
       "category": "exchange",
-      "categories": ["cryptocurrency", "exchange"],
-      "tags": ["exchange", "kcs", "kucoin"],
+      "categories": [
+        "cryptocurrency",
+        "exchange"
+      ],
+      "tags": [
+        "exchange",
+        "kcs",
+        "kucoin"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/kucoin-token.svg",
       "pngPath": "/icons/png/cryptocurrency/kucoin-token",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#00D2FF",
       "description": "KuCoin Token (KCS) - Exchange utility token",
       "website": "https://www.kucoin.com",
-      "rank": 55
+      "rank": 50
     },
     {
       "id": "iota",
       "name": "IOTA",
       "symbol": "MIOTA",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "iot", "miota", "iota"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "iot",
+        "miota",
+        "iota"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/iota.svg",
       "pngPath": "/icons/png/cryptocurrency/iota",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#131F37",
       "description": "IOTA (MIOTA) - Internet of Things blockchain",
@@ -831,171 +1366,298 @@
       "name": "BitTorrent",
       "symbol": "BTT",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "file-sharing", "btt", "bittorrent"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "file-sharing",
+        "btt",
+        "bittorrent"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/bittorrent.svg",
       "pngPath": "/icons/png/cryptocurrency/bittorrent",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "BitTorrent (BTT) - Decentralized file-sharing protocol",
       "website": "https://www.bittorrent.com",
-      "rank": 57
+      "rank": 104
     },
     {
       "id": "neo",
       "name": "Neo",
       "symbol": "NEO",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "neo", "smart-contracts"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "neo",
+        "smart-contracts"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/neo.svg",
       "pngPath": "/icons/png/cryptocurrency/neo",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#58BF00",
       "description": "Neo (NEO) - Smart contract platform for digital assets",
       "website": "https://neo.org",
-      "rank": 58
+      "rank": 139
     },
     {
       "id": "dash",
       "name": "Dash",
       "symbol": "DASH",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency"],
-      "tags": ["cryptocurrency", "dash", "privacy"],
+      "categories": [
+        "cryptocurrency"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "dash",
+        "privacy"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/dash.svg",
       "pngPath": "/icons/png/cryptocurrency/dash",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#008DE4",
       "description": "Dash (DASH) - Privacy-focused cryptocurrency",
       "website": "https://www.dash.org",
-      "rank": 59
+      "rank": 83
     },
     {
       "id": "quant",
       "name": "Quant",
       "symbol": "QNT",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "interoperability", "qnt", "quant"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "interoperability",
+        "qnt",
+        "quant"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/quant.svg",
       "pngPath": "/icons/png/cryptocurrency/quant",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Quant (QNT) - Blockchain interoperability protocol",
       "website": "https://www.quant.network",
-      "rank": 60
+      "rank": 66
     },
     {
       "id": "hedera",
       "name": "Hedera",
       "symbol": "HBAR",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "hbar", "hedera"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "hbar",
+        "hedera"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/hedera.svg",
       "pngPath": "/icons/png/cryptocurrency/hedera",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Hedera (HBAR) - Enterprise-grade public network",
       "website": "https://hedera.com",
-      "rank": 61
+      "rank": 24
     },
     {
       "id": "aptos",
       "name": "Aptos",
       "symbol": "APT",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "apt", "aptos"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "apt",
+        "aptos"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/aptos.svg",
       "pngPath": "/icons/png/cryptocurrency/aptos",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Aptos (APT) - Layer 1 blockchain platform",
       "website": "https://aptoslabs.com",
-      "rank": 62
+      "rank": 53
     },
     {
       "id": "arbitrum",
       "name": "Arbitrum",
       "symbol": "ARB",
       "category": "layer-2",
-      "categories": ["cryptocurrency", "layer-2"],
-      "tags": ["layer-2", "scaling", "arb", "arbitrum"],
+      "categories": [
+        "cryptocurrency",
+        "layer-2"
+      ],
+      "tags": [
+        "layer-2",
+        "scaling",
+        "arb",
+        "arbitrum"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/arbitrum.svg",
       "pngPath": "/icons/png/cryptocurrency/arbitrum",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#28A0F0",
       "description": "Arbitrum (ARB) - Ethereum Layer 2 scaling solution",
       "website": "https://arbitrum.io",
-      "rank": 63
+      "rank": 57
     },
     {
       "id": "optimism",
       "name": "Optimism",
       "symbol": "OP",
       "category": "layer-2",
-      "categories": ["cryptocurrency", "layer-2"],
-      "tags": ["layer-2", "scaling", "op", "optimism"],
+      "categories": [
+        "cryptocurrency",
+        "layer-2"
+      ],
+      "tags": [
+        "layer-2",
+        "scaling",
+        "op",
+        "optimism"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/optimism.svg",
       "pngPath": "/icons/png/cryptocurrency/optimism",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#FF0420",
       "description": "Optimism (OP) - Ethereum Layer 2 scaling solution",
       "website": "https://www.optimism.io",
-      "rank": 64
+      "rank": 81
     },
     {
       "id": "immutable-x",
       "name": "Immutable X",
       "symbol": "IMX",
       "category": "layer-2",
-      "categories": ["cryptocurrency", "layer-2"],
-      "tags": ["layer-2", "nft", "imx", "immutable-x"],
+      "categories": [
+        "cryptocurrency",
+        "layer-2"
+      ],
+      "tags": [
+        "layer-2",
+        "nft",
+        "imx",
+        "immutable-x"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/immutable-x.svg",
       "pngPath": "/icons/png/cryptocurrency/immutable-x",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Immutable X (IMX) - NFT-focused Layer 2 solution",
       "website": "https://www.immutable.com",
-      "rank": 65
+      "rank": 88
     },
     {
       "id": "ontology-gas",
       "name": "Ontology Gas",
       "symbol": "ONG",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "ong", "ontology-gas"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "ong",
+        "ontology-gas"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/ontology-gas.svg",
       "pngPath": "/icons/png/cryptocurrency/ontology-gas",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#32A4BE",
       "description": "Ontology Gas (ONG) - Utility token for Ontology network transactions",
       "website": "https://ont.io",
-      "rank": 66
+      "rank": 511
     },
     {
       "id": "render",
       "name": "Render",
       "symbol": "RNDR",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "rendering", "gpu", "rndr", "render"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "rendering",
+        "gpu",
+        "rndr",
+        "render"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/render.svg",
       "pngPath": "/icons/png/cryptocurrency/render",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Render (RNDR) - Distributed GPU rendering network",
@@ -1007,155 +1669,271 @@
       "name": "Injective",
       "symbol": "INJ",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "defi", "inj", "injective"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "defi",
+        "inj",
+        "injective"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/injective.svg",
       "pngPath": "/icons/png/cryptocurrency/injective",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Injective (INJ) - Decentralized exchange protocol",
       "website": "https://injective.com",
-      "rank": 68
+      "rank": 93
     },
     {
       "id": "celestia",
       "name": "Celestia",
       "symbol": "TIA",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "modular", "tia", "celestia"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "modular",
+        "tia",
+        "celestia"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/celestia.svg",
       "pngPath": "/icons/png/cryptocurrency/celestia",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Celestia (TIA) - Modular blockchain network",
       "website": "https://celestia.org",
-      "rank": 69
+      "rank": 97
     },
     {
       "id": "bonk",
       "name": "Bonk",
       "symbol": "BONK",
       "category": "memes",
-      "categories": ["cryptocurrency", "memes"],
-      "tags": ["memes", "solana", "bonk"],
+      "categories": [
+        "cryptocurrency",
+        "memes"
+      ],
+      "tags": [
+        "memes",
+        "solana",
+        "bonk"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/bonk.svg",
       "pngPath": "/icons/png/cryptocurrency/bonk",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Bonk (BONK) - Solana meme token",
       "website": "https://bonkcoin.com",
-      "rank": 70
+      "rank": 73
     },
     {
       "id": "jupiter",
       "name": "Jupiter",
       "symbol": "JUP",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "dex", "swap", "jup", "jupiter"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "dex",
+        "swap",
+        "jup",
+        "jupiter"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/jupiter.svg",
       "pngPath": "/icons/png/cryptocurrency/jupiter",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Jupiter (JUP) - Solana DEX aggregator",
       "website": "https://jup.ag",
-      "rank": 71
+      "rank": 77
     },
     {
       "id": "mantle",
       "name": "Mantle",
       "symbol": "MNT",
       "category": "layer-2",
-      "categories": ["cryptocurrency", "layer-2"],
-      "tags": ["layer-2", "scaling", "mnt", "mantle"],
+      "categories": [
+        "cryptocurrency",
+        "layer-2"
+      ],
+      "tags": [
+        "layer-2",
+        "scaling",
+        "mnt",
+        "mantle"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/mantle.svg",
       "pngPath": "/icons/png/cryptocurrency/mantle",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Mantle (MNT) - Ethereum Layer 2 network",
       "website": "https://www.mantle.xyz",
-      "rank": 72
+      "rank": 33
     },
     {
       "id": "sei",
       "name": "Sei",
       "symbol": "SEI",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "sei"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "sei"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/sei.svg",
       "pngPath": "/icons/png/cryptocurrency/sei",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Sei (SEI) - High-performance trading blockchain",
       "website": "https://www.sei.io",
-      "rank": 73
+      "rank": 72
     },
     {
       "id": "ondo",
       "name": "Ondo",
       "symbol": "ONDO",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "rwa", "ondo"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "rwa",
+        "ondo"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/ondo.svg",
       "pngPath": "/icons/png/cryptocurrency/ondo",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Ondo (ONDO) - Real-world asset tokenization",
       "website": "https://ondo.finance",
-      "rank": 74
+      "rank": 55
     },
     {
       "id": "jasmy",
       "name": "JasmyCoin",
       "symbol": "JASMY",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "iot", "jasmy", "jasmycoin"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "iot",
+        "jasmy",
+        "jasmycoin"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/jasmy.svg",
       "pngPath": "/icons/png/cryptocurrency/jasmy",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#00D4FF",
       "description": "JasmyCoin (JASMY) - IoT data democracy platform",
       "website": "https://jasmy.co.jp",
-      "rank": 75
+      "rank": 128
     },
     {
       "id": "ethena",
       "name": "Ethena",
       "symbol": "ENA",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "synthetic", "ena", "ethena"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "synthetic",
+        "ena",
+        "ethena"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/ethena.svg",
       "pngPath": "/icons/png/cryptocurrency/ethena",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Ethena (ENA) - Synthetic dollar protocol governance token",
       "website": "https://www.ethena.io",
-      "rank": 76
+      "rank": 45
     },
     {
       "id": "wrapped-bitcoin",
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency"],
-      "tags": ["cryptocurrency", "wrapped", "btc", "wbtc"],
+      "categories": [
+        "cryptocurrency"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "wrapped",
+        "btc",
+        "wbtc"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/wrapped-bitcoin.svg",
       "pngPath": "/icons/png/cryptocurrency/wrapped-bitcoin",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#F7931A",
       "description": "Wrapped Bitcoin (WBTC) - ERC-20 token backed by Bitcoin",
@@ -1167,395 +1945,676 @@
       "name": "Toncoin",
       "symbol": "TON",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "ton", "toncoin"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "ton",
+        "toncoin"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/toncoin.svg",
       "pngPath": "/icons/png/cryptocurrency/toncoin",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#0088CC",
       "description": "Toncoin (TON) - The Open Network blockchain",
       "website": "https://ton.org",
-      "rank": 78
+      "rank": 26
     },
     {
       "id": "internet-computer",
       "name": "Internet Computer",
       "symbol": "ICP",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "icp", "internet-computer"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "icp",
+        "internet-computer"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/internet-computer.svg",
       "pngPath": "/icons/png/cryptocurrency/internet-computer",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Internet Computer (ICP) - Decentralized cloud computing platform",
       "website": "https://internetcomputer.org",
-      "rank": 79
+      "rank": 47
     },
     {
       "id": "stacks",
       "name": "Stacks",
       "symbol": "STX",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "bitcoin", "stx", "stacks"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "bitcoin",
+        "stx",
+        "stacks"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/stacks.svg",
       "pngPath": "/icons/png/cryptocurrency/stacks",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#5546FF",
       "description": "Stacks (STX) - Bitcoin Layer 2 for smart contracts",
       "website": "https://www.stacks.co",
-      "rank": 80
+      "rank": 90
     },
     {
       "id": "cronos",
       "name": "Cronos",
       "symbol": "CRO",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "cro", "cronos"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "cro",
+        "cronos"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/cronos.svg",
       "pngPath": "/icons/png/cryptocurrency/cronos",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#1A1A1A",
       "description": "Cronos (CRO) - Crypto.com blockchain network",
       "website": "https://cronos.org",
-      "rank": 81
+      "rank": 29
     },
     {
       "id": "worldcoin",
       "name": "Worldcoin",
       "symbol": "WLD",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency"],
-      "tags": ["cryptocurrency", "wld", "worldcoin"],
+      "categories": [
+        "cryptocurrency"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "wld",
+        "worldcoin"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/worldcoin.svg",
       "pngPath": "/icons/png/cryptocurrency/worldcoin",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Worldcoin (WLD) - Digital identity and global financial network",
       "website": "https://worldcoin.org",
-      "rank": 82
+      "rank": 52
     },
     {
       "id": "floki",
       "name": "Floki",
       "symbol": "FLOKI",
       "category": "memes",
-      "categories": ["cryptocurrency", "memes"],
-      "tags": ["memes", "floki"],
+      "categories": [
+        "cryptocurrency",
+        "memes"
+      ],
+      "tags": [
+        "memes",
+        "floki"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/floki.svg",
       "pngPath": "/icons/png/cryptocurrency/floki",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Floki (FLOKI) - Meme cryptocurrency inspired by Elon Musk's dog",
       "website": "https://floki.com",
-      "rank": 83
+      "rank": 100
     },
     {
       "id": "pepe",
       "name": "Pepe",
       "symbol": "PEPE",
       "category": "memes",
-      "categories": ["cryptocurrency", "memes"],
-      "tags": ["memes", "pepe"],
+      "categories": [
+        "cryptocurrency",
+        "memes"
+      ],
+      "tags": [
+        "memes",
+        "pepe"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/pepe.svg",
       "pngPath": "/icons/png/cryptocurrency/pepe",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Pepe (PEPE) - Meme cryptocurrency based on the Pepe the Frog meme",
       "website": "https://pepe.vip",
-      "rank": 84
+      "rank": 38
     },
     {
       "id": "lido-dao",
       "name": "Lido DAO",
       "symbol": "LDO",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "staking", "ldo", "lido-dao"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "staking",
+        "ldo",
+        "lido-dao"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/lido-dao.svg",
       "pngPath": "/icons/png/cryptocurrency/lido-dao",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Lido DAO (LDO) - Liquid staking protocol for Ethereum and other blockchains",
       "website": "https://lido.fi",
-      "rank": 85
+      "rank": 84
     },
     {
       "id": "arweave",
       "name": "Arweave",
       "symbol": "AR",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "storage", "ar", "arweave"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "storage",
+        "ar",
+        "arweave"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/arweave.svg",
       "pngPath": "/icons/png/cryptocurrency/arweave",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Arweave (AR) - Permanent data storage blockchain network",
       "website": "https://www.arweave.org",
-      "rank": 86
+      "rank": 143
     },
     {
       "id": "flow",
       "name": "Flow",
       "symbol": "FLOW",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "flow"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "flow"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/flow.svg",
       "pngPath": "/icons/png/cryptocurrency/flow",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Flow (FLOW) - Developer-friendly blockchain for games and digital assets",
       "website": "https://flow.com",
-      "rank": 87
+      "rank": 189
     },
     {
       "id": "theta-fuel",
       "name": "Theta Fuel",
       "symbol": "TFUEL",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "tfuel", "theta-fuel"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "tfuel",
+        "theta-fuel"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/theta-fuel.svg",
       "pngPath": "/icons/png/cryptocurrency/theta-fuel",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Theta Fuel (TFUEL) - Operational token for Theta Network video delivery",
       "website": "https://www.thetatoken.org",
-      "rank": 88
+      "rank": 193
     },
     {
       "id": "axie-infinity",
       "name": "Axie Infinity",
       "symbol": "AXS",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["gaming", "nft", "axs", "axie-infinity"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "gaming",
+        "nft",
+        "axs",
+        "axie-infinity"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/axie-infinity.svg",
       "pngPath": "/icons/png/cryptocurrency/axie-infinity",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Axie Infinity (AXS) - Play-to-earn NFT gaming platform",
       "website": "https://axieinfinity.com",
-      "rank": 89
+      "rank": 179
     },
     {
       "id": "chiliz",
       "name": "Chiliz",
       "symbol": "CHZ",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "sports", "fan-token", "chz", "chiliz"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "sports",
+        "fan-token",
+        "chz",
+        "chiliz"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/chiliz.svg",
       "pngPath": "/icons/png/cryptocurrency/chiliz",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Chiliz (CHZ) - Blockchain platform for sports and entertainment fan tokens",
       "website": "https://www.chiliz.com",
-      "rank": 90
+      "rank": 94
     },
     {
       "id": "gala",
       "name": "Gala",
       "symbol": "GALA",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["gaming", "gala"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "gaming",
+        "gala"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/gala.svg",
       "pngPath": "/icons/png/cryptocurrency/gala",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Gala (GALA) - Gaming and entertainment blockchain platform",
       "website": "https://gala.com",
-      "rank": 91
+      "rank": 130
     },
     {
       "id": "curve-dao-token",
       "name": "Curve DAO Token",
       "symbol": "CRV",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "dex", "crv", "curve-dao-token"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "dex",
+        "crv",
+        "curve-dao-token"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/curve-dao-token.svg",
       "pngPath": "/icons/png/cryptocurrency/curve-dao-token",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Curve DAO Token (CRV) - Decentralized exchange for stablecoins and similar assets",
       "website": "https://curve.fi",
-      "rank": 92
+      "rank": 80
     },
     {
       "id": "1inch",
       "name": "1inch",
       "symbol": "1INCH",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "dex", "aggregator", "1inch"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "dex",
+        "aggregator",
+        "1inch"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/1inch.svg",
       "pngPath": "/icons/png/cryptocurrency/1inch",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "1inch (1INCH) - DEX aggregator protocol for finding best swap rates",
       "website": "https://1inch.io",
-      "rank": 93
+      "rank": 151
     },
     {
       "id": "enjin-coin",
       "name": "Enjin Coin",
       "symbol": "ENJ",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["gaming", "nft", "enj", "enjin-coin"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "gaming",
+        "nft",
+        "enj",
+        "enjin-coin"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/enjin-coin.svg",
       "pngPath": "/icons/png/cryptocurrency/enjin-coin",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Enjin Coin (ENJ) - Blockchain platform for gaming and NFT ecosystem",
       "website": "https://enjin.io",
-      "rank": 94
+      "rank": 394
     },
     {
       "id": "basic-attention-token",
       "name": "Basic Attention Token",
       "symbol": "BAT",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["advertising", "bat", "basic-attention-token"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "advertising",
+        "bat",
+        "basic-attention-token"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/basic-attention-token.svg",
       "pngPath": "/icons/png/cryptocurrency/basic-attention-token",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Basic Attention Token (BAT) - Digital advertising token for Brave browser",
       "website": "https://basicattentiontoken.org",
-      "rank": 95
+      "rank": 123
     },
     {
       "id": "zilliqa",
       "name": "Zilliqa",
       "symbol": "ZIL",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "zil", "zilliqa"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "zil",
+        "zilliqa"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/zilliqa.svg",
       "pngPath": "/icons/png/cryptocurrency/zilliqa",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Zilliqa (ZIL) - High-throughput blockchain platform with sharding technology",
       "website": "https://www.zilliqa.com",
-      "rank": 96
+      "rank": 269
     },
     {
       "id": "harmony",
       "name": "Harmony",
       "symbol": "ONE",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "one", "harmony"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "one",
+        "harmony"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/harmony.svg",
       "pngPath": "/icons/png/cryptocurrency/harmony",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Harmony (ONE) - Fast and secure blockchain with sharding and cross-chain bridges",
       "website": "https://www.harmony.one",
-      "rank": 97
+      "rank": 385
     },
     {
       "id": "tokenfi",
       "name": "TokenFi",
       "symbol": "TOKEN",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency"],
-      "tags": ["cryptocurrency", "token", "tokenfi"],
+      "categories": [
+        "cryptocurrency"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "token",
+        "tokenfi"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/tokenfi.svg",
       "pngPath": "/icons/png/cryptocurrency/tokenfi",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "TokenFi (TOKEN) - Token launchpad and tokenization platform",
       "website": "https://tokenfi.com",
-      "rank": 98
+      "rank": 1242
     },
     {
       "id": "pyth-network",
       "name": "Pyth Network",
       "symbol": "PYTH",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "oracle", "pyth", "pyth-network"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "oracle",
+        "pyth",
+        "pyth-network"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/pyth-network.svg",
       "pngPath": "/icons/png/cryptocurrency/pyth-network",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Pyth Network (PYTH) - Decentralized oracle network for real-time market data",
       "website": "https://pyth.network",
-      "rank": 99
+      "rank": 118
     },
     {
       "id": "dydx",
       "name": "dYdX",
       "symbol": "DYDX",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "derivatives", "dydx"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "derivatives",
+        "dydx"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/dydx.svg",
       "pngPath": "/icons/png/cryptocurrency/dydx",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "dYdX (DYDX) - Decentralized derivatives exchange protocol",
       "website": "https://dydx.exchange",
-      "rank": 100
+      "rank": 180
     },
     {
       "id": "ether-fi",
       "name": "ether.fi",
       "symbol": "ETHFI",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "staking", "ethfi", "ether-fi"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "staking",
+        "ethfi",
+        "ether-fi"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/ether-fi.svg",
       "pngPath": "/icons/png/cryptocurrency/ether-fi",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "ether.fi (ETHFI) - Non-custodial Ethereum staking protocol",
       "website": "https://ether.fi",
-      "rank": 101
+      "rank": 89
     },
     {
       "id": "starknet",
       "name": "Starknet",
       "symbol": "STRK",
       "category": "layer-2",
-      "categories": ["cryptocurrency", "layer-2"],
-      "tags": ["layer-2", "scaling", "strk", "starknet"],
+      "categories": [
+        "cryptocurrency",
+        "layer-2"
+      ],
+      "tags": [
+        "layer-2",
+        "scaling",
+        "strk",
+        "starknet"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/starknet.svg",
       "pngPath": "/icons/png/cryptocurrency/starknet",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Starknet (STRK) - Layer 2 scaling solution using ZK-rollups",
@@ -1567,764 +2626,1315 @@
       "name": "Blur",
       "symbol": "BLUR",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["nft", "marketplace", "blur"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "nft",
+        "marketplace",
+        "blur"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/blur.svg",
       "pngPath": "/icons/png/cryptocurrency/blur",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Blur (BLUR) - NFT marketplace and aggregator platform",
       "website": "https://blur.io",
-      "rank": 102
+      "rank": 312
     },
     {
       "id": "mina-protocol",
       "name": "Mina Protocol",
       "symbol": "MINA",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "mina", "mina-protocol"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "mina",
+        "mina-protocol"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/mina-protocol.svg",
       "pngPath": "/icons/png/cryptocurrency/mina-protocol",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Mina Protocol (MINA) - Lightweight blockchain with constant-sized blockchain",
       "website": "https://minaprotocol.com",
-      "rank": 103
+      "rank": 266
     },
     {
       "id": "aioz-network",
       "name": "AIOZ Network",
       "symbol": "AIOZ",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "video", "aioz", "aioz-network"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "video",
+        "aioz",
+        "aioz-network"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/aioz-network.svg",
       "pngPath": "/icons/png/cryptocurrency/aioz-network",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "AIOZ Network (AIOZ) - Decentralized content delivery network",
       "website": "https://aioz.network",
-      "rank": 104
+      "rank": 244
     },
- 
     {
       "id": "oasis-network",
       "name": "Oasis Network",
       "symbol": "ROSE",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "rose", "oasis-network"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "rose",
+        "oasis-network"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/oasis-network.svg",
       "pngPath": "/icons/png/cryptocurrency/oasis-network",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Oasis Network (ROSE) - Privacy-focused blockchain platform",
       "website": "https://oasisprotocol.org",
-      "rank": 106
+      "rank": 304
     },
     {
       "id": "conflux-network",
       "name": "Conflux Network",
       "symbol": "CFX",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "cfx", "conflux-network"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "cfx",
+        "conflux-network"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/conflux-network.svg",
       "pngPath": "/icons/png/cryptocurrency/conflux-network",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Conflux Network (CFX) - High-performance public blockchain",
       "website": "https://confluxnetwork.org",
-      "rank": 107
+      "rank": 105
     },
     {
       "id": "akash-network",
       "name": "Akash Network",
       "symbol": "AKT",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "cloud", "akt", "akash-network"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "cloud",
+        "akt",
+        "akash-network"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/akash-network.svg",
       "pngPath": "/icons/png/cryptocurrency/akash-network",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Akash Network (AKT) - Decentralized cloud computing marketplace",
       "website": "https://akash.network",
-      "rank": 108
+      "rank": 250
     },
     {
       "id": "rocket-pool",
       "name": "Rocket Pool",
       "symbol": "RPL",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "staking", "rpl", "rocket-pool"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "staking",
+        "rpl",
+        "rocket-pool"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/rocket-pool.svg",
       "pngPath": "/icons/png/cryptocurrency/rocket-pool",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Rocket Pool (RPL) - Decentralized Ethereum staking protocol",
       "website": "https://rocketpool.net",
-      "rank": 109
+      "rank": 452
     },
     {
       "id": "pancakeswap",
       "name": "PancakeSwap",
       "symbol": "CAKE",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "dex", "cake", "pancakeswap"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "dex",
+        "cake",
+        "pancakeswap"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/pancakeswap.svg",
       "pngPath": "/icons/png/cryptocurrency/pancakeswap",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "PancakeSwap (CAKE) - Decentralized exchange on Binance Smart Chain",
       "website": "https://pancakeswap.finance",
-      "rank": 110
+      "rank": 76
     },
     {
       "id": "echelon-prime",
       "name": "Echelon Prime",
       "symbol": "PRIME",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["gaming", "nft", "prime", "echelon-prime"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "gaming",
+        "nft",
+        "prime",
+        "echelon-prime"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/echelon-prime.svg",
       "pngPath": "/icons/png/cryptocurrency/echelon-prime",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Echelon Prime (PRIME) - Gaming and NFT ecosystem token",
       "website": "https://www.parallel.life",
-      "rank": 111
+      "rank": 641
     },
     {
       "id": "pendle",
       "name": "Pendle",
       "symbol": "PENDLE",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "yield", "pendle"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "yield",
+        "pendle"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/pendle.svg",
       "pngPath": "/icons/png/cryptocurrency/pendle",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Pendle (PENDLE) - Yield trading protocol for tokenizing future yield",
       "website": "https://www.pendle.finance",
-      "rank": 112
+      "rank": 120
     },
     {
       "id": "manta-network",
       "name": "Manta Network",
       "symbol": "MANTA",
       "category": "layer-2",
-      "categories": ["cryptocurrency", "layer-2"],
-      "tags": ["layer-2", "privacy", "manta", "manta-network"],
+      "categories": [
+        "cryptocurrency",
+        "layer-2"
+      ],
+      "tags": [
+        "layer-2",
+        "privacy",
+        "manta",
+        "manta-network"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/manta-network.svg",
       "pngPath": "/icons/png/cryptocurrency/manta-network",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Manta Network (MANTA) - Privacy-preserving Layer 2 blockchain",
       "website": "https://manta.network",
-      "rank": 113
+      "rank": 524
     },
     {
       "id": "metis",
       "name": "Metis",
       "symbol": "METIS",
       "category": "layer-2",
-      "categories": ["cryptocurrency", "layer-2"],
-      "tags": ["layer-2", "scaling", "metis"],
+      "categories": [
+        "cryptocurrency",
+        "layer-2"
+      ],
+      "tags": [
+        "layer-2",
+        "scaling",
+        "metis"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/metis.svg",
       "pngPath": "/icons/png/cryptocurrency/metis",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Metis (METIS) - Ethereum Layer 2 scaling solution",
       "website": "https://www.metis.io",
-      "rank": 114
+      "rank": 510
     },
     {
       "id": "ronin",
       "name": "Ronin",
       "symbol": "RON",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "gaming", "ron", "ronin"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "gaming",
+        "ron",
+        "ronin"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/ronin.svg",
       "pngPath": "/icons/png/cryptocurrency/ronin",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Ronin (RON) - Gaming-focused blockchain for Axie Infinity",
       "website": "https://roninchain.com",
-      "rank": 115
+      "rank": 265
     },
     {
       "id": "kava",
       "name": "Kava",
       "symbol": "KAVA",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "defi", "kava"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "defi",
+        "kava"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/kava.svg",
       "pngPath": "/icons/png/cryptocurrency/kava",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Kava (KAVA) - DeFi lending and stablecoin platform",
       "website": "https://www.kava.io",
-      "rank": 116
+      "rank": 297
     },
     {
       "id": "osmosis",
       "name": "Osmosis",
       "symbol": "OSMO",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "dex", "osmo", "osmosis"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "dex",
+        "osmo",
+        "osmosis"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/osmosis.svg",
       "pngPath": "/icons/png/cryptocurrency/osmosis",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Osmosis (OSMO) - Decentralized exchange on Cosmos ecosystem",
       "website": "https://osmosis.zone",
-      "rank": 117
+      "rank": 497
     },
     {
       "id": "gnosis",
       "name": "Gnosis",
       "symbol": "GNO",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "prediction", "gno", "gnosis"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "prediction",
+        "gno",
+        "gnosis"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/gnosis.svg",
       "pngPath": "/icons/png/cryptocurrency/gnosis",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Gnosis (GNO) - Prediction market and infrastructure platform",
       "website": "https://gnosis.io",
-      "rank": 118
+      "rank": 119
     },
     {
       "id": "livepeer",
       "name": "Livepeer",
       "symbol": "LPT",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "video", "lpt", "livepeer"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "video",
+        "lpt",
+        "livepeer"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/livepeer.svg",
       "pngPath": "/icons/png/cryptocurrency/livepeer",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Livepeer (LPT) - Decentralized video streaming infrastructure",
       "website": "https://livepeer.org",
-      "rank": 119
+      "rank": 183
     },
     {
       "id": "beam",
       "name": "Beam",
       "symbol": "BEAM",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["gaming", "nft", "beam"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "gaming",
+        "nft",
+        "beam"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/beam.svg",
       "pngPath": "/icons/png/cryptocurrency/beam",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Beam (BEAM) - Gaming blockchain and ecosystem",
       "website": "https://www.onbeam.com",
-      "rank": 120
+      "rank": 185
     },
     {
       "id": "celo",
       "name": "Celo",
       "symbol": "CELO",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "celo"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "celo"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/celo.svg",
       "pngPath": "/icons/png/cryptocurrency/celo",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Celo (CELO) - Mobile-first blockchain for financial inclusion",
       "website": "https://celo.org",
-      "rank": 121
+      "rank": 338
     },
     {
       "id": "skale",
       "name": "SKALE",
       "symbol": "SKL",
       "category": "layer-2",
-      "categories": ["cryptocurrency", "layer-2"],
-      "tags": ["layer-2", "scaling", "skl", "skale"],
+      "categories": [
+        "cryptocurrency",
+        "layer-2"
+      ],
+      "tags": [
+        "layer-2",
+        "scaling",
+        "skl",
+        "skale"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/skale.svg",
       "pngPath": "/icons/png/cryptocurrency/skale",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "SKALE (SKL) - Elastic sidechain network for Ethereum",
       "website": "https://skale.network",
-      "rank": 122
+      "rank": 362
     },
     {
       "id": "illuvium",
       "name": "Illuvium",
       "symbol": "ILV",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["gaming", "nft", "ilv", "illuvium"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "gaming",
+        "nft",
+        "ilv",
+        "illuvium"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/illuvium.svg",
       "pngPath": "/icons/png/cryptocurrency/illuvium",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Illuvium (ILV) - Blockchain-based RPG and NFT game",
       "website": "https://illuvium.io",
-      "rank": 123
+      "rank": 489
     },
     {
       "id": "yearn-finance",
       "name": "yearn.finance",
       "symbol": "YFI",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "yield", "yfi", "yearn-finance"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "yield",
+        "yfi",
+        "yearn-finance"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/yearn-finance.svg",
       "pngPath": "/icons/png/cryptocurrency/yearn-finance",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "yearn.finance (YFI) - DeFi yield aggregator protocol",
       "website": "https://yearn.fi",
-      "rank": 124
+      "rank": 241
     },
     {
       "id": "sushi",
       "name": "SushiSwap",
       "symbol": "SUSHI",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "dex", "sushi", "sushiswap"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "dex",
+        "sushi",
+        "sushiswap"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/sushi.svg",
       "pngPath": "/icons/png/cryptocurrency/sushi",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "SushiSwap (SUSHI) - Decentralized exchange and DeFi protocol",
       "website": "https://sushi.com",
-      "rank": 125
+      "rank": 285
     },
     {
       "id": "raydium",
       "name": "Raydium",
       "symbol": "RAY",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "dex", "ray", "raydium"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "dex",
+        "ray",
+        "raydium"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/raydium.svg",
       "pngPath": "/icons/png/cryptocurrency/raydium",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Raydium (RAY) - Automated market maker on Solana",
       "website": "https://raydium.io",
-      "rank": 126
+      "rank": 136
     },
     {
       "id": "alpha-finance",
       "name": "Alpha Finance Lab",
       "symbol": "ALPHA",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "lending", "alpha", "alpha-finance"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "lending",
+        "alpha",
+        "alpha-finance"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/alpha-finance.svg",
       "pngPath": "/icons/png/cryptocurrency/alpha-finance",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Alpha Finance Lab (ALPHA) - Cross-chain DeFi platform",
       "website": "https://alphafinance.io",
-      "rank": 127
+      "rank": 1343
     },
     {
       "id": "horizen",
       "name": "Horizen",
       "symbol": "ZEN",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "privacy", "zen", "horizen"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "privacy",
+        "zen",
+        "horizen"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/horizen.svg",
       "pngPath": "/icons/png/cryptocurrency/horizen",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Horizen (ZEN) - Privacy-focused blockchain platform",
       "website": "https://www.horizen.io",
-      "rank": 128
+      "rank": 170
     },
     {
       "id": "waves",
       "name": "Waves",
       "symbol": "WAVES",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "waves"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "waves"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/waves.svg",
       "pngPath": "/icons/png/cryptocurrency/waves",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Waves (WAVES) - Blockchain platform for custom tokens and dApps",
       "website": "https://waves.tech",
-      "rank": 129
+      "rank": 301
     },
     {
       "id": "iotex",
       "name": "IoTeX",
       "symbol": "IOTX",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "iot", "iotx", "iotex"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "iot",
+        "iotx",
+        "iotex"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/iotex.svg",
       "pngPath": "/icons/png/cryptocurrency/iotex",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "IoTeX (IOTX) - Blockchain platform for Internet of Things",
       "website": "https://iotex.io",
-      "rank": 130
+      "rank": 328
     },
     {
       "id": "polkadot",
       "name": "Polkadot",
       "symbol": "DOT",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "dot", "polkadot"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "dot",
+        "polkadot"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/polkadot.svg",
       "pngPath": "/icons/png/cryptocurrency/polkadot",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Polkadot (DOT) - Multi-chain blockchain interoperability platform",
       "website": "https://polkadot.network",
-      "rank": 131
+      "rank": 32
     },
     {
       "id": "loopring",
       "name": "Loopring",
       "symbol": "LRC",
       "category": "layer-2",
-      "categories": ["cryptocurrency", "layer-2"],
-      "tags": ["layer-2", "dex", "lrc", "loopring"],
+      "categories": [
+        "cryptocurrency",
+        "layer-2"
+      ],
+      "tags": [
+        "layer-2",
+        "dex",
+        "lrc",
+        "loopring"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/loopring.svg",
       "pngPath": "/icons/png/cryptocurrency/loopring",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Loopring (LRC) - Layer 2 DEX protocol using zkRollups",
       "website": "https://loopring.org",
-      "rank": 132
+      "rank": 336
     },
     {
       "id": "gmx",
       "name": "GMX",
       "symbol": "GMX",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "derivatives", "gmx"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "derivatives",
+        "gmx"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/gmx.svg",
       "pngPath": "/icons/png/cryptocurrency/gmx",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "GMX (GMX) - Decentralized spot and perpetual exchange",
       "website": "https://gmx.io",
-      "rank": 133
+      "rank": 307
     },
     {
       "id": "legacy-frax-dollar",
       "name": "Legacy Frax Dollar",
       "symbol": "FRAX",
       "category": "stablecoin",
-      "categories": ["cryptocurrency", "stablecoin"],
-      "tags": ["stablecoin", "frax"],
+      "categories": [
+        "cryptocurrency",
+        "stablecoin"
+      ],
+      "tags": [
+        "stablecoin",
+        "frax"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/stablecoin/legacy-frax-dollar.svg",
       "pngPath": "/icons/png/cryptocurrency/stablecoin/legacy-frax-dollar",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Frax (FRAX) - Fractional-algorithmic stablecoin",
       "website": "https://frax.finance",
-      "rank": 134
+      "rank": 210
     },
     {
       "id": "true-usd",
       "name": "TrueUSD",
       "symbol": "TUSD",
       "category": "stablecoin",
-      "categories": ["cryptocurrency", "stablecoin"],
-      "tags": ["stablecoin", "tusd", "true-usd"],
+      "categories": [
+        "cryptocurrency",
+        "stablecoin"
+      ],
+      "tags": [
+        "stablecoin",
+        "tusd",
+        "true-usd"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/stablecoin/true-usd.svg",
       "pngPath": "/icons/png/cryptocurrency/stablecoin/true-usd",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "TrueUSD (TUSD) - Regulated USD-backed stablecoin",
       "website": "https://www.trusttoken.com",
-      "rank": 135
+      "rank": 86
     },
     {
       "id": "treasure",
       "name": "Treasure",
       "symbol": "MAGIC",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["gaming", "nft", "magic"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "gaming",
+        "nft",
+        "magic"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/treasure.svg",
       "pngPath": "/icons/png/cryptocurrency/treasure",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Magic (MAGIC) - Gaming and NFT ecosystem token",
       "website": "https://treasure.lol",
-      "rank": 136
+      "rank": 581
     },
     {
       "id": "golem",
       "name": "Golem",
       "symbol": "GLM",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "computing", "glm", "golem"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "computing",
+        "glm",
+        "golem"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/golem.svg",
       "pngPath": "/icons/png/cryptocurrency/golem",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Golem (GLM) - Decentralized computing power marketplace",
       "website": "https://www.golem.network",
-      "rank": 137
+      "rank": 146
     },
     {
       "id": "moonbeam",
       "name": "Moonbeam",
       "symbol": "GLMR",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "evm", "glmr", "moonbeam"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "evm",
+        "glmr",
+        "moonbeam"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/moonbeam.svg",
       "pngPath": "/icons/png/cryptocurrency/moonbeam",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Moonbeam (GLMR) - Ethereum-compatible smart contract platform on Polkadot",
       "website": "https://moonbeam.network",
-      "rank": 138
+      "rank": 658
     },
     {
       "id": "radiant-capital",
       "name": "Radiant Capital",
       "symbol": "RDNT",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "lending", "rdnt", "radiant-capital"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "lending",
+        "rdnt",
+        "radiant-capital"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/radiant-capital.svg",
       "pngPath": "/icons/png/cryptocurrency/radiant-capital",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Radiant Capital (RDNT) - Cross-chain lending protocol",
       "website": "https://app.radiant.capital",
-      "rank": 139
+      "rank": 851
     },
     {
       "id": "astar",
       "name": "Astar",
       "symbol": "ASTR",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "astr", "astar"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "astr",
+        "astar"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/astar.svg",
       "pngPath": "/icons/png/cryptocurrency/astar",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Astar (ASTR) - Multi-chain smart contract platform on Polkadot",
       "website": "https://astar.network",
-      "rank": 140
+      "rank": 291
     },
     {
       "id": "kusama",
       "name": "Kusama",
       "symbol": "KSM",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "ksm", "kusama"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "ksm",
+        "kusama"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/kusama.svg",
       "pngPath": "/icons/png/cryptocurrency/kusama",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Kusama (KSM) - Experimental blockchain network for Polkadot",
       "website": "https://kusama.network",
-      "rank": 141
+      "rank": 190
     },
     {
       "id": "band-protocol",
       "name": "Band Protocol",
       "symbol": "BAND",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "oracle", "band", "band-protocol"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "oracle",
+        "band",
+        "band-protocol"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/band-protocol.svg",
       "pngPath": "/icons/png/cryptocurrency/band-protocol",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Band Protocol (BAND) - Cross-chain data oracle platform",
       "website": "https://bandprotocol.com",
-      "rank": 142
+      "rank": 381
     },
     {
       "id": "api3",
       "name": "API3",
       "symbol": "API3",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "oracle", "api3"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "oracle",
+        "api3"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/api3.svg",
       "pngPath": "/icons/png/cryptocurrency/api3",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "API3 (API3) - Decentralized API network for Web3",
       "website": "https://api3.org",
-      "rank": 143
+      "rank": 492
     },
     {
       "id": "uma",
       "name": "UMA",
       "symbol": "UMA",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "derivatives", "uma"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "derivatives",
+        "uma"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/uma.svg",
       "pngPath": "/icons/png/cryptocurrency/uma",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "UMA (UMA) - Decentralized financial contracts platform",
       "website": "https://umaproject.org",
-      "rank": 144
+      "rank": 355
     },
     {
       "id": "ren",
       "name": "Ren",
       "symbol": "REN",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "bridge", "ren"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "bridge",
+        "ren"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/ren.svg",
       "pngPath": "/icons/png/cryptocurrency/ren",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Ren (REN) - Interoperability protocol for cross-chain transfers",
       "website": "https://renproject.io",
-      "rank": 145
+      "rank": 1145
     },
     {
       "id": "0x-protocol",
       "name": "0x Protocol",
       "symbol": "ZRX",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "dex", "zrx", "0x-protocol"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "dex",
+        "zrx",
+        "0x-protocol"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/0x-protocol.svg",
       "pngPath": "/icons/png/cryptocurrency/0x-protocol",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "0x (ZRX) - Open protocol for decentralized exchange",
       "website": "https://0x.org",
-      "rank": 146
+      "rank": 240
     },
     {
       "id": "balancer",
       "name": "Balancer",
       "symbol": "BAL",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "dex", "bal", "balancer"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "dex",
+        "bal",
+        "balancer"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/balancer.svg",
       "pngPath": "/icons/png/cryptocurrency/balancer",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Balancer (BAL) - Automated portfolio manager and liquidity provider",
       "website": "https://balancer.fi",
-      "rank": 147
+      "rank": 480
     },
     {
       "id": "kyber-network-crystal-v2",
       "name": "Kyber Network Crystal V2",
       "symbol": "KNC",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "dex", "knc", "kyber-network"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "dex",
+        "knc",
+        "kyber-network"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/kyber-network-crystal-v2.svg",
       "pngPath": "/icons/png/cryptocurrency/kyber-network-crystal-v2",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Kyber Network (KNC) - Multi-chain DEX aggregator and liquidity protocol",
       "website": "https://kyberswap.com",
-      "rank": 148
+      "rank": 451
     },
     {
       "id": "reserve-rights",
       "name": "Reserve Rights",
       "symbol": "RSR",
       "category": "stablecoin",
-      "categories": ["cryptocurrency", "stablecoin"],
-      "tags": ["stablecoin", "rsr", "reserve-rights"],
+      "categories": [
+        "cryptocurrency",
+        "stablecoin"
+      ],
+      "tags": [
+        "stablecoin",
+        "rsr",
+        "reserve-rights"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/reserve-rights.svg",
       "pngPath": "/icons/png/cryptocurrency/reserve-rights",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Reserve Rights (RSR) - Stablecoin protocol governance token",
       "website": "https://reserve.org",
-      "rank": 149
+      "rank": 169
     },
     {
       "id": "nucypher",
       "name": "NuCypher",
       "symbol": "NU",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "privacy", "nu", "nucypher"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "privacy",
+        "nu",
+        "nucypher"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/nucypher.svg",
       "pngPath": "/icons/png/cryptocurrency/nucypher",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "NuCypher (NU) - Privacy-preserving infrastructure for decentralized applications",
@@ -2336,253 +3946,436 @@
       "name": "Keep Network",
       "symbol": "KEEP",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "privacy", "keep", "keep-network"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "privacy",
+        "keep",
+        "keep-network"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/keep-network.svg",
       "pngPath": "/icons/png/cryptocurrency/keep-network",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Keep Network (KEEP) - Privacy layer for public blockchains",
       "website": "https://keep.network",
-      "rank": 151
+      "rank": 289
     },
     {
       "id": "origin-protocol",
       "name": "Origin Protocol",
       "symbol": "OGN",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["nft", "marketplace", "ogn", "origin-protocol"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "nft",
+        "marketplace",
+        "ogn",
+        "origin-protocol"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/origin-protocol.svg",
       "pngPath": "/icons/png/cryptocurrency/origin-protocol",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Origin Protocol (OGN) - NFT and DeFi platform",
       "website": "https://www.originprotocol.com",
-      "rank": 152
+      "rank": 743
     },
     {
       "id": "audius",
       "name": "Audius",
       "symbol": "AUDIO",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["music", "nft", "audio", "audius"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "music",
+        "nft",
+        "audio",
+        "audius"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/audius.svg",
       "pngPath": "/icons/png/cryptocurrency/audius",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Audius (AUDIO) - Decentralized music streaming platform",
       "website": "https://audius.co",
-      "rank": 153
+      "rank": 482
     },
     {
       "id": "mirror-protocol",
       "name": "Mirror Protocol",
       "symbol": "MIR",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "synthetics", "mir", "mirror-protocol"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "synthetics",
+        "mir",
+        "mirror-protocol"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/mirror-protocol.svg",
       "pngPath": "/icons/png/cryptocurrency/mirror-protocol",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Mirror Protocol (MIR) - Synthetic assets protocol on Terra",
       "website": "https://mirror.finance",
-      "rank": 154
+      "rank": 2456
     },
     {
       "id": "tellor",
       "name": "Tellor",
       "symbol": "TRB",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "oracle", "trb", "tellor"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "oracle",
+        "trb",
+        "tellor"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/tellor.svg",
       "pngPath": "/icons/png/cryptocurrency/tellor",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Tellor (TRB) - Decentralized oracle network",
       "website": "https://tellor.io",
-      "rank": 155
+      "rank": 382
     },
     {
       "id": "bancor",
       "name": "Bancor",
       "symbol": "BNT",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "dex", "bnt", "bancor"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "dex",
+        "bnt",
+        "bancor"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/bancor.svg",
       "pngPath": "/icons/png/cryptocurrency/bancor",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Bancor (BNT) - Automated market maker protocol",
       "website": "https://bancor.network",
-      "rank": 156
+      "rank": 429
     },
     {
       "id": "augur",
       "name": "Augur",
       "symbol": "REP",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["prediction", "market", "rep", "augur"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "prediction",
+        "market",
+        "rep",
+        "augur"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/augur.svg",
       "pngPath": "/icons/png/cryptocurrency/augur",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Augur (REP) - Decentralized prediction market platform",
       "website": "https://www.augur.net",
-      "rank": 157
+      "rank": 995
     },
     {
       "id": "numeraire",
       "name": "Numeraire",
       "symbol": "NMR",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["ai", "ml", "nmr", "numeraire"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "ai",
+        "ml",
+        "nmr",
+        "numeraire"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/numeraire.svg",
       "pngPath": "/icons/png/cryptocurrency/numeraire",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Numeraire (NMR) - Cryptographic token for machine learning competitions",
       "website": "https://numer.ai",
-      "rank": 158
+      "rank": 327
     },
     {
       "id": "status",
       "name": "Status",
       "symbol": "SNT",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["messaging", "social", "snt", "status"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "messaging",
+        "social",
+        "snt",
+        "status"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/status.svg",
       "pngPath": "/icons/png/cryptocurrency/status",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Status (SNT) - Mobile Ethereum client and messaging platform",
       "website": "https://status.im",
-      "rank": 160
+      "rank": 347
     },
- 
     {
       "id": "decred",
       "name": "Decred",
       "symbol": "DCR",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency"],
-      "tags": ["cryptocurrency", "dcr", "decred"],
+      "categories": [
+        "cryptocurrency"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "dcr",
+        "decred"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/decred.svg",
       "pngPath": "/icons/png/cryptocurrency/decred",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Decred (DCR) - Self-governing cryptocurrency with hybrid consensus",
       "website": "https://www.decred.org",
-      "rank": 163
+      "rank": 129
     },
     {
       "id": "nervos-network",
       "name": "Nervos Network",
       "symbol": "CKB",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "ckb", "nervos-network"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "ckb",
+        "nervos-network"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/nervos-network.svg",
       "pngPath": "/icons/png/cryptocurrency/nervos-network",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Nervos Network (CKB) - Layered blockchain network for decentralized applications",
       "website": "https://www.nervos.org",
-      "rank": 164
+      "rank": 242
     },
     {
       "id": "icon",
       "name": "ICON",
       "symbol": "ICX",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "icx", "icon"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "icx",
+        "icon"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/icon.svg",
       "pngPath": "/icons/png/cryptocurrency/icon",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "ICON (ICX) - Blockchain network for connecting independent blockchains",
       "website": "https://icon.foundation",
-      "rank": 165
+      "rank": 377
     },
-
     {
       "id": "siacoin",
       "name": "Siacoin",
       "symbol": "SC",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "storage", "sc", "siacoin"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "storage",
+        "sc",
+        "siacoin"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/siacoin.svg",
       "pngPath": "/icons/png/cryptocurrency/siacoin",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Siacoin (SC) - Decentralized cloud storage platform",
       "website": "https://sia.tech",
-      "rank": 167
+      "rank": 298
     },
     {
       "id": "digibyte",
       "name": "DigiByte",
       "symbol": "DGB",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency"],
-      "tags": ["cryptocurrency", "dgb", "digibyte"],
+      "categories": [
+        "cryptocurrency"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "dgb",
+        "digibyte"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/digibyte.svg",
       "pngPath": "/icons/png/cryptocurrency/digibyte",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "DigiByte (DGB) - Fast and secure blockchain platform",
       "website": "https://www.digibyte.io",
-      "rank": 168
+      "rank": 247
     },
     {
       "id": "steem",
       "name": "Steem",
       "symbol": "STEEM",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["social", "content", "steem"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "social",
+        "content",
+        "steem"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/steem.svg",
       "pngPath": "/icons/png/cryptocurrency/steem",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Steem (STEEM) - Blockchain-based social media platform",
       "website": "https://steem.com",
-      "rank": 169
+      "rank": 529
     },
     {
       "id": "reddcoin",
       "name": "Reddcoin",
       "symbol": "RDD",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["social", "tipping", "rdd", "reddcoin"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "social",
+        "tipping",
+        "rdd",
+        "reddcoin"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/reddcoin.svg",
       "pngPath": "/icons/png/cryptocurrency/reddcoin",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Reddcoin (RDD) - Social cryptocurrency for tipping and payments",
@@ -2594,75 +4387,129 @@
       "name": "Verge",
       "symbol": "XVG",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency"],
-      "tags": ["cryptocurrency", "privacy", "xvg", "verge"],
+      "categories": [
+        "cryptocurrency"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "privacy",
+        "xvg",
+        "verge"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/verge.svg",
       "pngPath": "/icons/png/cryptocurrency/verge",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Verge (XVG) - Privacy-focused cryptocurrency",
       "website": "https://vergecurrency.com",
-      "rank": 171
+      "rank": 276
     },
     {
       "id": "nano",
       "name": "Nano",
       "symbol": "XNO",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency"],
-      "tags": ["cryptocurrency", "payment", "xno", "nano"],
+      "categories": [
+        "cryptocurrency"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "payment",
+        "xno",
+        "nano"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/nano.svg",
       "pngPath": "/icons/png/cryptocurrency/nano",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Nano (XNO) - Fast and feeless cryptocurrency",
       "website": "https://nano.org",
-      "rank": 172
+      "rank": 273
     },
     {
       "id": "pivx",
       "name": "PIVX",
       "symbol": "PIVX",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency"],
-      "tags": ["cryptocurrency", "privacy", "pivx"],
+      "categories": [
+        "cryptocurrency"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "privacy",
+        "pivx"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/pivx.svg",
       "pngPath": "/icons/png/cryptocurrency/pivx",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "PIVX (PIVX) - Privacy-focused cryptocurrency with proof-of-stake",
       "website": "https://pivx.org",
-      "rank": 173
+      "rank": 909
     },
     {
       "id": "komodo",
       "name": "Komodo",
       "symbol": "KMD",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "kmd", "komodo"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "kmd",
+        "komodo"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/komodo.svg",
       "pngPath": "/icons/png/cryptocurrency/komodo",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Komodo (KMD) - Blockchain platform with privacy and security features",
       "website": "https://komodoplatform.com",
-      "rank": 174
+      "rank": 1311
     },
     {
       "id": "zcoin",
       "name": "Zcoin",
       "symbol": "XZC",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency"],
-      "tags": ["cryptocurrency", "privacy", "xzc", "zcoin"],
+      "categories": [
+        "cryptocurrency"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "privacy",
+        "xzc",
+        "zcoin"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/zcoin.svg",
       "pngPath": "/icons/png/cryptocurrency/zcoin",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Zcoin (XZC) - Privacy-focused cryptocurrency",
@@ -2674,107 +4521,181 @@
       "name": "Bitcoin Gold",
       "symbol": "BTG",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency"],
-      "tags": ["cryptocurrency", "btg", "bitcoin-gold"],
+      "categories": [
+        "cryptocurrency"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "btg",
+        "bitcoin-gold"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/bitcoin-gold.svg",
       "pngPath": "/icons/png/cryptocurrency/bitcoin-gold",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Bitcoin Gold (BTG) - Bitcoin hard fork for decentralized mining",
       "website": "https://bitcoingold.org",
-      "rank": 176
+      "rank": 875
     },
     {
       "id": "vertcoin",
       "name": "Vertcoin",
       "symbol": "VTC",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency"],
-      "tags": ["cryptocurrency", "vtc", "vertcoin"],
+      "categories": [
+        "cryptocurrency"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "vtc",
+        "vertcoin"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/vertcoin.svg",
       "pngPath": "/icons/png/cryptocurrency/vertcoin",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Vertcoin (VTC) - ASIC-resistant cryptocurrency",
       "website": "https://vertcoin.org",
-      "rank": 177
+      "rank": 1297
     },
     {
       "id": "ravencoin",
       "name": "Ravencoin",
       "symbol": "RVN",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "rvn", "ravencoin"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "rvn",
+        "ravencoin"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/ravencoin.svg",
       "pngPath": "/icons/png/cryptocurrency/ravencoin",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Ravencoin (RVN) - Blockchain optimized for asset transfer",
       "website": "https://ravencoin.org",
-      "rank": 178
+      "rank": 200
     },
     {
       "id": "bitcoin-diamond",
       "name": "Bitcoin Diamond",
       "symbol": "BCD",
       "category": "cryptocurrency",
-      "categories": ["cryptocurrency"],
-      "tags": ["cryptocurrency", "bcd", "bitcoin-diamond"],
+      "categories": [
+        "cryptocurrency"
+      ],
+      "tags": [
+        "cryptocurrency",
+        "bcd",
+        "bitcoin-diamond"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/bitcoin-diamond.svg",
       "pngPath": "/icons/png/cryptocurrency/bitcoin-diamond",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Bitcoin Diamond (BCD) - Bitcoin hard fork with enhanced features",
       "website": "https://btcd.io",
-      "rank": 179
+      "rank": 618
     },
     {
       "id": "syscoin",
       "name": "Syscoin",
       "symbol": "SYS",
       "category": "chain",
-      "categories": ["cryptocurrency", "chain"],
-      "tags": ["chain", "sys", "syscoin"],
+      "categories": [
+        "cryptocurrency",
+        "chain"
+      ],
+      "tags": [
+        "chain",
+        "sys",
+        "syscoin"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/syscoin.svg",
       "pngPath": "/icons/png/cryptocurrency/syscoin",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Syscoin (SYS) - Blockchain platform for decentralized commerce",
       "website": "https://syscoin.org",
-      "rank": 180
+      "rank": 820
     },
     {
       "id": "usd1",
       "name": "USD1",
       "symbol": "USD1",
       "category": "stablecoin",
-      "categories": ["cryptocurrency", "stablecoin"],
-      "tags": ["stablecoin", "usd1"],
+      "categories": [
+        "cryptocurrency",
+        "stablecoin"
+      ],
+      "tags": [
+        "stablecoin",
+        "usd1"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/stablecoin/usd1.svg",
       "pngPath": "/icons/png/cryptocurrency/stablecoin/usd1",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "USD1 (USD1) - Dollar-pegged stablecoin",
       "website": "https://www.worldlibertyfinancial.com/usd1",
-      "rank": 181
+      "rank": 31
     },
     {
       "id": "bird-dog",
       "name": "Bird Dog",
       "symbol": "BDOG",
       "category": "memes",
-      "categories": ["cryptocurrency", "memes"],
-      "tags": ["memes", "bsc", "bdog", "bird-dog"],
+      "categories": [
+        "cryptocurrency",
+        "memes"
+      ],
+      "tags": [
+        "memes",
+        "bsc",
+        "bdog",
+        "bird-dog"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/bird-dog.svg",
       "pngPath": "/icons/png/cryptocurrency/bird-dog",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Bird Dog (BDOG) - Meme token on BNB Chain",
@@ -2786,288 +4707,503 @@
       "name": "Helium",
       "symbol": "HNT",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "iot", "wireless", "hnt", "helium"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "iot",
+        "wireless",
+        "hnt",
+        "helium"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/helium.svg",
       "pngPath": "/icons/png/cryptocurrency/helium",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Helium (HNT) - Decentralized wireless network",
       "website": "https://www.helium.com",
-      "rank": 183
+      "rank": 134
     },
     {
       "id": "jito",
       "name": "Jito",
       "symbol": "JTO",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "solana", "jto", "jito"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "solana",
+        "jto",
+        "jito"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/jito.svg",
       "pngPath": "/icons/png/cryptocurrency/jito",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Jito (JTO) - Solana MEV infrastructure",
       "website": "https://www.jito.wtf",
-      "rank": 184
+      "rank": 163
     },
     {
       "id": "dogwifhat",
       "name": "dogwifhat",
       "symbol": "WIF",
       "category": "memes",
-      "categories": ["cryptocurrency", "memes"],
-      "tags": ["memes", "solana", "wif", "dogwifhat"],
+      "categories": [
+        "cryptocurrency",
+        "memes"
+      ],
+      "tags": [
+        "memes",
+        "solana",
+        "wif",
+        "dogwifhat"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/dogwifhat.svg",
       "pngPath": "/icons/png/cryptocurrency/dogwifhat",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "dogwifhat (WIF) - Solana meme token",
       "website": "https://dogwifcoin.org",
-      "rank": 185
+      "rank": 131
     },
     {
       "id": "fetch-ai",
       "name": "Fetch.ai",
       "symbol": "FET",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "ai", "machine-learning", "fet", "fetch-ai"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "ai",
+        "machine-learning",
+        "fet",
+        "fetch-ai"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/fetch-ai.svg",
       "pngPath": "/icons/png/cryptocurrency/fetch-ai",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Fetch.ai (FET) - AI and machine learning blockchain platform",
       "website": "https://fetch.ai",
-      "rank": 186
+      "rank": 87
     },
     {
       "id": "singularitynet",
       "name": "SingularityNET",
       "symbol": "AGIX",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "ai", "agix", "singularitynet"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "ai",
+        "agix",
+        "singularitynet"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/singularitynet.svg",
       "pngPath": "/icons/png/cryptocurrency/singularitynet",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "SingularityNET (AGIX) - Decentralized AI marketplace",
       "website": "https://singularitynet.io",
-      "rank": 187
+      "rank": 4472
     },
     {
       "id": "ocean-protocol",
       "name": "Ocean Protocol",
       "symbol": "OCEAN",
       "category": "infrastructure",
-      "categories": ["cryptocurrency", "infrastructure"],
-      "tags": ["infrastructure", "data", "ocean", "ocean-protocol"],
+      "categories": [
+        "cryptocurrency",
+        "infrastructure"
+      ],
+      "tags": [
+        "infrastructure",
+        "data",
+        "ocean",
+        "ocean-protocol"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/ocean-protocol.svg",
       "pngPath": "/icons/png/cryptocurrency/ocean-protocol",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Ocean Protocol (OCEAN) - Data exchange protocol",
       "website": "https://oceanprotocol.com",
-      "rank": 188
+      "rank": 4096
     },
     {
       "id": "alex-lab",
       "name": "Alex Lab",
       "symbol": "ALEX",
       "category": "defi",
-      "categories": ["cryptocurrency", "defi"],
-      "tags": ["defi", "bitcoin", "alex", "alex-lab"],
+      "categories": [
+        "cryptocurrency",
+        "defi"
+      ],
+      "tags": [
+        "defi",
+        "bitcoin",
+        "alex",
+        "alex-lab"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/alex-lab.svg",
       "pngPath": "/icons/png/cryptocurrency/alex-lab",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Alex Lab (ALEX) - Bitcoin DeFi protocol",
       "website": "https://www.alexlab.co",
-      "rank": 189
+      "rank": 2346
     },
     {
       "id": "superfarm",
       "name": "SuperFarm",
       "symbol": "SUPER",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["nft", "gaming", "super", "superfarm"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "nft",
+        "gaming",
+        "super",
+        "superfarm"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/superfarm.svg",
       "pngPath": "/icons/png/cryptocurrency/superfarm",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "SuperFarm (SUPER) - NFT and gaming platform",
       "website": "https://superfarm.com",
-      "rank": 190
+      "rank": 187
     },
     {
       "id": "game-federation",
       "name": "Game Federation",
       "symbol": "GFT",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["gaming", "nft", "gft", "game-federation"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "gaming",
+        "nft",
+        "gft",
+        "game-federation"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/game-federation.svg",
       "pngPath": "/icons/png/cryptocurrency/game-federation",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Game Federation (GFT) - Gaming platform token",
       "website": "https://gamefederation.io",
-      "rank": 191
+      "rank": 2846
     },
     {
       "id": "fusionist",
       "name": "Fusionist",
       "symbol": "ACE",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["gaming", "nft", "ace", "fusionist"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "gaming",
+        "nft",
+        "ace",
+        "fusionist"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/fusionist.svg",
       "pngPath": "/icons/png/cryptocurrency/fusionist",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Fusionist (ACE) - Gaming and NFT ecosystem",
       "website": "https://www.fusionist.io",
-      "rank": 192
+      "rank": 679
     },
     {
       "id": "nfp",
       "name": "NFPrompt",
       "symbol": "NFP",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["nft", "ai", "nfp", "nfprompt"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "nft",
+        "ai",
+        "nfp",
+        "nfprompt"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/nfp.svg",
       "pngPath": "/icons/png/cryptocurrency/nfp",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "NFPrompt (NFP) - AI-powered NFT platform",
       "website": "https://nfprompt.com",
-      "rank": 193
+      "rank": 905
     },
     {
       "id": "sleepless-ai",
       "name": "Sleepless AI",
       "symbol": "AI",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["gaming", "ai", "nft", "sleepless-ai"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "gaming",
+        "ai",
+        "nft",
+        "sleepless-ai"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/sleepless-ai.svg",
       "pngPath": "/icons/png/cryptocurrency/sleepless-ai",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Sleepless AI (AI) - AI-powered gaming platform",
       "website": "https://www.sleeplessai.net",
-      "rank": 194
+      "rank": 766
     },
     {
       "id": "xai",
       "name": "XAI",
       "symbol": "XAI",
       "category": "layer-2",
-      "categories": ["cryptocurrency", "layer-2"],
-      "tags": ["layer-2", "gaming", "xai"],
+      "categories": [
+        "cryptocurrency",
+        "layer-2"
+      ],
+      "tags": [
+        "layer-2",
+        "gaming",
+        "xai"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/xai.svg",
       "pngPath": "/icons/png/cryptocurrency/xai",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "XAI (XAI) - Layer 3 blockchain for gaming",
       "website": "https://xai.games",
-      "rank": 195
+      "rank": 552
     },
     {
       "id": "altlayer",
       "name": "AltLayer",
       "symbol": "ALT",
       "category": "layer-2",
-      "categories": ["cryptocurrency", "layer-2"],
-      "tags": ["layer-2", "scaling", "alt", "altlayer"],
+      "categories": [
+        "cryptocurrency",
+        "layer-2"
+      ],
+      "tags": [
+        "layer-2",
+        "scaling",
+        "alt",
+        "altlayer"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/altlayer.svg",
       "pngPath": "/icons/png/cryptocurrency/altlayer",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "AltLayer (ALT) - Restaked rollup infrastructure",
       "website": "https://altlayer.io",
-      "rank": 196
+      "rank": 356
     },
     {
       "id": "pixels",
       "name": "Pixels",
       "symbol": "PIXEL",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["gaming", "nft", "pixel", "pixels"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "gaming",
+        "nft",
+        "pixel",
+        "pixels"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/pixels.svg",
       "pngPath": "/icons/png/cryptocurrency/pixels",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Pixels (PIXEL) - Web3 farming game",
       "website": "https://pixels.xyz",
-      "rank": 197
+      "rank": 616
     },
     {
       "id": "portal",
       "name": "Portal",
       "symbol": "PORTAL",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["gaming", "cross-chain", "portal"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "gaming",
+        "cross-chain",
+        "portal"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/portal.svg",
       "pngPath": "/icons/png/cryptocurrency/portal",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Portal (PORTAL) - Cross-chain gaming platform",
       "website": "https://portal.games",
-      "rank": 198
+      "rank": 829
     },
     {
       "id": "pudgy-penguins",
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "category": "other",
-      "categories": ["cryptocurrency", "other"],
-      "tags": ["nft", "memes", "pengu", "pudgy-penguins"],
+      "categories": [
+        "cryptocurrency",
+        "other"
+      ],
+      "tags": [
+        "nft",
+        "memes",
+        "pengu",
+        "pudgy-penguins"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/pudgy-penguins.svg",
       "pngPath": "/icons/png/cryptocurrency/pudgy-penguins",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Pudgy Penguins (PENGU) - NFT collection token",
       "website": "https://www.pudgypenguins.com",
-      "rank": 199
+      "rank": 78
     },
     {
       "id": "myro",
       "name": "Myro",
       "symbol": "MYRO",
       "category": "memes",
-      "categories": ["cryptocurrency", "memes"],
-      "tags": ["memes", "solana", "myro"],
+      "categories": [
+        "cryptocurrency",
+        "memes"
+      ],
+      "tags": [
+        "memes",
+        "solana",
+        "myro"
+      ],
       "svgPath": "/icons/svg/cryptocurrency/myro.svg",
       "pngPath": "/icons/png/cryptocurrency/myro",
-      "sizes": [32, 64, 128],
+      "sizes": [
+        32,
+        64,
+        128
+      ],
       "addedDate": "2024-01-20",
       "color": "#000000",
       "description": "Myro (MYRO) - Solana meme token",
       "website": "https://www.myro.vip",
-      "rank": 200
+      "rank": 1320
     }
   ]
 }
