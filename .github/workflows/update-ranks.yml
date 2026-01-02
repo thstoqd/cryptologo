@@ -12,11 +12,15 @@ jobs:
   update-ranks:
     runs-on: ubuntu-latest
     
+    # 添加权限配置，确保可以写入仓库
+    permissions:
+      contents: write
+    
     steps:
       - name: 检出代码
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # 使用默认的 GITHUB_TOKEN，但需要 permissions 配置
           fetch-depth: 0
 
       - name: 设置 Node.js
@@ -31,25 +35,43 @@ jobs:
       - name: 更新代币排名
         env:
           COINMARKETCAP_API_KEY: ${{ secrets.COINMARKETCAP_API_KEY }}
-        run: node scripts/update-ranks.js
+        run: |
+          echo "开始更新代币排名..."
+          if [ -z "$COINMARKETCAP_API_KEY" ]; then
+            echo "❌ 错误: COINMARKETCAP_API_KEY 未设置"
+            exit 1
+          fi
+          echo "✅ API Key 已设置（前10字符: ${COINMARKETCAP_API_KEY:0:10}...）"
+          node scripts/update-ranks.js
 
       - name: 检查是否有更改
         id: verify-changed
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             echo "changed=true" >> $GITHUB_OUTPUT
+            echo "检测到文件更改"
+            git status
           else
             echo "changed=false" >> $GITHUB_OUTPUT
+            echo "没有文件更改"
           fi
 
       - name: 提交更改
         if: steps.verify-changed.outputs.changed == 'true'
         run: |
+          echo "准备提交更改..."
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/icons-metadata.json
-          git commit -m "chore: 自动更新代币排名 [skip ci]"
-          git push
+          git commit -m "chore: 自动更新代币排名 [skip ci]" || {
+            echo "⚠️ 提交失败，可能没有实际更改"
+            exit 0
+          }
+          git push origin HEAD:${{ github.ref }} || {
+            echo "❌ 推送失败，检查权限配置"
+            exit 1
+          }
+          echo "✅ 更改已成功提交并推送"
 
       - name: 输出结果
         if: steps.verify-changed.outputs.changed == 'false'
