@@ -197,8 +197,8 @@
         "swap",
         "uniswap"
       ],
-      "svgPath": "/icons/svg/defi/uniswap.svg",
-      "pngPath": "/icons/png/defi/uniswap",
+      "svgPath": "/icons/svg/cryptocurrency/uniswap.svg",
+      "pngPath": "/icons/png/cryptocurrency/uniswap",
       "sizes": [
         32,
         64,
