@@ -63,7 +63,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/icons-metadata.json
-          git commit -m "chore: 自动更新代币排名 [skip ci]" || {
+          git commit -m "chore: 自动更新代币排名" || {
             echo "⚠️ 提交失败，可能没有实际更改"
             exit 0
           }
