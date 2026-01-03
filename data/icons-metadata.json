@@ -4489,33 +4489,7 @@
       "website": "https://komodoplatform.com",
       "rank": 1315
     },
-    {
-      "id": "zcoin",
-      "name": "Zcoin",
-      "symbol": "XZC",
-      "category": "cryptocurrency",
-      "categories": [
-        "cryptocurrency"
-      ],
-      "tags": [
-        "cryptocurrency",
-        "privacy",
-        "xzc",
-        "zcoin"
-      ],
-      "svgPath": "/icons/svg/cryptocurrency/zcoin.svg",
-      "pngPath": "/icons/png/cryptocurrency/zcoin",
-      "sizes": [
-        32,
-        64,
-        128
-      ],
-      "addedDate": "2024-01-20",
-      "color": "#000000",
-      "description": "Zcoin (XZC) - Privacy-focused cryptocurrency",
-      "website": "https://zcoin.io",
-      "rank": 175
-    },
+
     {
       "id": "bitcoin-gold",
       "name": "Bitcoin Gold",
@@ -4674,34 +4648,7 @@
       "website": "https://www.worldlibertyfinancial.com/usd1",
       "rank": 33
     },
-    {
-      "id": "bird-dog",
-      "name": "Bird Dog",
-      "symbol": "BDOG",
-      "category": "memes",
-      "categories": [
-        "cryptocurrency",
-        "memes"
-      ],
-      "tags": [
-        "memes",
-        "bsc",
-        "bdog",
-        "bird-dog"
-      ],
-      "svgPath": "/icons/svg/cryptocurrency/bird-dog.svg",
-      "pngPath": "/icons/png/cryptocurrency/bird-dog",
-      "sizes": [
-        32,
-        64,
-        128
-      ],
-      "addedDate": "2024-01-20",
-      "color": "#000000",
-      "description": "Bird Dog (BDOG) - Meme token on BNB Chain",
-      "website": "https://coinmarketcap.com/currencies/bird-dog-bsc",
-      "rank": 182
-    },
+    
     {
       "id": "helium",
       "name": "Helium",
@@ -4900,34 +4847,7 @@
       "website": "https://www.alexlab.co",
       "rank": 2353
     },
-    {
-      "id": "superfarm",
-      "name": "SuperFarm",
-      "symbol": "SUPER",
-      "category": "other",
-      "categories": [
-        "cryptocurrency",
-        "other"
-      ],
-      "tags": [
-        "nft",
-        "gaming",
-        "super",
-        "superfarm"
-      ],
-      "svgPath": "/icons/svg/cryptocurrency/superfarm.svg",
-      "pngPath": "/icons/png/cryptocurrency/superfarm",
-      "sizes": [
-        32,
-        64,
-        128
-      ],
-      "addedDate": "2024-01-20",
-      "color": "#000000",
-      "description": "SuperFarm (SUPER) - NFT and gaming platform",
-      "website": "https://superfarm.com",
-      "rank": 189
-    },
+
     {
       "id": "game-federation",
       "name": "Game Federation",
@@ -5154,10 +5074,10 @@
       "id": "pudgy-penguins",
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "category": "other",
+      "category": "memes",
       "categories": [
         "cryptocurrency",
-        "other"
+        "memes"
       ],
       "tags": [
         "nft",
