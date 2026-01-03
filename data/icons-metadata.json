@@ -4788,8 +4788,8 @@
       "rank": 131
     },
     {
-      "id": "fetch-ai",
-      "name": "Fetch.ai",
+      "id": "artificial-superintelligence-alliance",
+      "name": "Artificial Superintelligence Alliance",
       "symbol": "FET",
       "category": "infrastructure",
       "categories": [
@@ -4801,10 +4801,10 @@
         "ai",
         "machine-learning",
         "fet",
-        "fetch-ai"
+        "superintelligence"
       ],
-      "svgPath": "/icons/svg/cryptocurrency/fetch-ai.svg",
-      "pngPath": "/icons/png/cryptocurrency/fetch-ai",
+      "svgPath": "/icons/svg/cryptocurrency/artificial-superintelligence-alliance.svg",
+      "pngPath": "/icons/png/cryptocurrency/artificial-superintelligence-alliance",
       "sizes": [
         32,
         64,
@@ -4812,8 +4812,8 @@
       ],
       "addedDate": "2024-01-20",
       "color": "#000000",
-      "description": "Fetch.ai (FET) - AI and machine learning blockchain platform",
-      "website": "https://fetch.ai",
+      "description": "Artificial Superintelligence Alliance (FET) - Web3-native LLM",
+      "website": "https://superintelligence.io/",
       "rank": 87
     },
     {
