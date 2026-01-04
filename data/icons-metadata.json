@@ -4305,12 +4305,14 @@
       "id": "digibyte",
       "name": "DigiByte",
       "symbol": "DGB",
-      "category": "cryptocurrency",
+      "category": "chain",
       "categories": [
-        "cryptocurrency"
+        "cryptocurrency",
+        "chain"
       ],
       "tags": [
         "cryptocurrency",
+        "chain",
         "dgb",
         "digibyte"
       ],

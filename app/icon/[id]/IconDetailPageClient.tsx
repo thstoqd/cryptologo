@@ -29,7 +29,6 @@ export default function IconDetailPageClient({ id }: { id: string }) {
   const category = categories.find(c => c.id === icon.category)
   const relatedIcons = icons
     .filter(i => i.id !== icon.id && (i.category === icon.category || i.tags.some(tag => icon.tags.includes(tag))))
-    .slice(0, 6)
 
   const handleDownloadSVG = () => {
     downloadSVG(icon.svgPath, icon.name)
@@ -70,11 +69,11 @@ export default function IconDetailPageClient({ id }: { id: string }) {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
           {/* Left: Icon Preview */}
           <div className="space-y-4">
-            <div className="bg-white border border-gray-200 rounded-lg p-8 flex items-center justify-center aspect-square">
+            <div className="bg-white border border-gray-200 rounded-lg p-8 flex items-center justify-center w-full max-w-md mx-auto lg:mx-0 aspect-square">
               <img
                 src={icon.svgPath}
                 alt={icon.name}
-                className="w-full h-full object-contain max-w-md"
+                className="w-full h-full object-contain max-w-[280px]"
                 onError={(e) => {
                   e.currentTarget.src = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjZGRkIi8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM5OTkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIuM2VtIj5QTFN8L3RleHQ+PC9zdmc+'
                 }}
@@ -184,7 +183,7 @@ export default function IconDetailPageClient({ id }: { id: string }) {
         {relatedIcons.length > 0 && (
           <div className="mt-12">
             <h2 className="text-2xl font-bold text-gray-900 mb-6">Related Icons</h2>
-            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-4 xl:grid-cols-6 gap-4">
               {relatedIcons.map((relatedIcon) => (
                 <Link
                   key={relatedIcon.id}
