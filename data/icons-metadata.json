@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-31T02:35:07.212Z",
+  "lastUpdated": "2026-04-01T02:47:28.019Z",
   "categories": [
     {
       "id": "cryptocurrency",
@@ -180,7 +180,7 @@
       "color": "#8247E5",
       "description": "Polygon blockchain network",
       "website": "https://polygon.technology",
-      "rank": 55
+      "rank": 54
     },
     {
       "id": "uniswap",
@@ -400,7 +400,7 @@
       "color": "#0033AD",
       "description": "Cardano (ADA) - Third-generation blockchain platform",
       "website": "https://cardano.org",
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "bitcoin-cash",
@@ -510,7 +510,7 @@
       "color": "#F7931A",
       "description": "UNUS SED LEO (LEO) - Bitfinex exchange token",
       "website": "https://www.bitfinex.com",
-      "rank": 13
+      "rank": 12
     },
     {
       "id": "stellar",
@@ -593,7 +593,7 @@
       "color": "#F4B728",
       "description": "Zcash (ZEC) - Privacy-protecting digital currency",
       "website": "https://z.cash",
-      "rank": 24
+      "rank": 22
     },
     {
       "id": "ethena-usde",
@@ -699,7 +699,7 @@
       "color": "#E84142",
       "description": "Avalanche (AVAX) - High-performance blockchain platform",
       "website": "https://www.avax.network",
-      "rank": 23
+      "rank": 24
     },
     {
       "id": "cosmos",
@@ -726,7 +726,7 @@
       "color": "#2E3148",
       "description": "Cosmos (ATOM) - Internet of blockchains",
       "website": "https://cosmos.network",
-      "rank": 60
+      "rank": 59
     },
     {
       "id": "algorand",
@@ -753,7 +753,7 @@
       "color": "#000000",
       "description": "Algorand (ALGO) - Pure proof-of-stake blockchain",
       "website": "https://www.algorand.com",
-      "rank": 63
+      "rank": 58
     },
     {
       "id": "vechain",
@@ -808,7 +808,7 @@
       "color": "#0090FF",
       "description": "Filecoin (FIL) - Decentralized storage network",
       "website": "https://filecoin.io",
-      "rank": 69
+      "rank": 68
     },
     {
       "id": "eos",
@@ -834,7 +834,7 @@
       "color": "#000000",
       "description": "EOS (EOS) - Blockchain platform for decentralized applications",
       "website": "https://eos.io",
-      "rank": 4170
+      "rank": 4286
     },
     {
       "id": "tezos",
@@ -861,7 +861,7 @@
       "color": "#2C7DF7",
       "description": "Tezos (XTZ) - Self-amending blockchain",
       "website": "https://tezos.com",
-      "rank": 92
+      "rank": 90
     },
     {
       "id": "theta-network",
@@ -889,7 +889,7 @@
       "color": "#2AB8E6",
       "description": "Theta Network (THETA) - Decentralized video delivery network",
       "website": "https://www.thetatoken.org",
-      "rank": 151
+      "rank": 152
     },
     {
       "id": "maker",
@@ -918,7 +918,7 @@
       "color": "#1AAB9B",
       "description": "Maker (MKR) - Decentralized lending platform",
       "website": "https://makerdao.com",
-      "rank": 3965
+      "rank": 3881
     },
     {
       "id": "aave",
@@ -945,7 +945,7 @@
       "color": "#B6509E",
       "description": "Aave (AAVE) - Decentralized lending and borrowing protocol",
       "website": "https://aave.com",
-      "rank": 44
+      "rank": 45
     },
     {
       "id": "compound",
@@ -973,7 +973,7 @@
       "color": "#00D395",
       "description": "Compound (COMP) - Decentralized lending protocol",
       "website": "https://compound.finance",
-      "rank": 140
+      "rank": 142
     },
     {
       "id": "elrond",
@@ -1001,7 +1001,7 @@
       "color": "#000000",
       "description": "MultiversX (EGLD) - High-throughput blockchain platform for metaverse and Web3",
       "website": "https://multiversx.com",
-      "rank": 175
+      "rank": 174
     },
     {
       "id": "near-protocol",
@@ -1028,7 +1028,7 @@
       "color": "#000000",
       "description": "NEAR Protocol (NEAR) - Developer-friendly blockchain",
       "website": "https://near.org",
-      "rank": 43
+      "rank": 44
     },
     {
       "id": "apecoin",
@@ -1056,7 +1056,7 @@
       "color": "#0052FF",
       "description": "ApeCoin (APE) - NFT and metaverse token",
       "website": "https://apecoin.com",
-      "rank": 299
+      "rank": 296
     },
     {
       "id": "the-graph",
@@ -1140,7 +1140,7 @@
       "color": "#00ADEF",
       "description": "The Sandbox (SAND) - Virtual gaming metaverse",
       "website": "https://www.sandbox.game",
-      "rank": 123
+      "rank": 120
     },
     {
       "id": "radix",
@@ -1167,7 +1167,7 @@
       "color": "#000000",
       "description": "Radix (XRD) - DeFi-focused blockchain",
       "website": "https://www.radixdlt.com",
-      "rank": 757
+      "rank": 748
     },
     {
       "id": "pax-dollar",
@@ -1194,7 +1194,7 @@
       "color": "#000000",
       "description": "Pax Dollar (USDP) - Regulated stablecoin",
       "website": "https://paxos.com",
-      "rank": 418
+      "rank": 417
     },
     {
       "id": "synthetix",
@@ -1222,7 +1222,7 @@
       "color": "#00D1FF",
       "description": "Synthetix (SNX) - Decentralized derivatives platform",
       "website": "https://synthetix.io",
-      "rank": 186
+      "rank": 182
     },
     {
       "id": "decentraland",
@@ -1250,7 +1250,7 @@
       "color": "#FF2D55",
       "description": "Decentraland (MANA) - Virtual reality platform",
       "website": "https://decentraland.org",
-      "rank": 145
+      "rank": 143
     },
     {
       "id": "ontology",
@@ -1277,7 +1277,7 @@
       "color": "#32A4BE",
       "description": "Ontology (ONT) - High-performance public blockchain and distributed trust collaboration platform",
       "website": "https://ont.io",
-      "rank": 264
+      "rank": 266
     },
     {
       "id": "gas",
@@ -1304,7 +1304,7 @@
       "color": "#58BF00",
       "description": "Neo Gas (GAS) - Utility token for Neo blockchain network transactions",
       "website": "https://neo.org",
-      "rank": 180
+      "rank": 179
     },
     {
       "id": "kucoin-token",
@@ -1331,7 +1331,7 @@
       "color": "#00D2FF",
       "description": "KuCoin Token (KCS) - Exchange utility token",
       "website": "https://www.kucoin.com",
-      "rank": 54
+      "rank": 53
     },
     {
       "id": "iota",
@@ -1387,7 +1387,7 @@
       "color": "#000000",
       "description": "BitTorrent (BTT) - Decentralized file-sharing protocol",
       "website": "https://www.bittorrent.com",
-      "rank": 100
+      "rank": 99
     },
     {
       "id": "neo",
@@ -1414,7 +1414,7 @@
       "color": "#58BF00",
       "description": "Neo (NEO) - Smart contract platform for digital assets",
       "website": "https://neo.org",
-      "rank": 134
+      "rank": 133
     },
     {
       "id": "dash",
@@ -1468,7 +1468,7 @@
       "color": "#000000",
       "description": "Quant (QNT) - Blockchain interoperability protocol",
       "website": "https://www.quant.network",
-      "rank": 59
+      "rank": 60
     },
     {
       "id": "hedera",
@@ -1522,7 +1522,7 @@
       "color": "#000000",
       "description": "Aptos (APT) - Layer 1 blockchain platform",
       "website": "https://aptoslabs.com",
-      "rank": 65
+      "rank": 64
     },
     {
       "id": "arbitrum",
@@ -1550,7 +1550,7 @@
       "color": "#28A0F0",
       "description": "Arbitrum (ARB) - Ethereum Layer 2 scaling solution",
       "website": "https://arbitrum.io",
-      "rank": 75
+      "rank": 76
     },
     {
       "id": "optimism",
@@ -1578,7 +1578,7 @@
       "color": "#FF0420",
       "description": "Optimism (OP) - Ethereum Layer 2 scaling solution",
       "website": "https://www.optimism.io",
-      "rank": 120
+      "rank": 119
     },
     {
       "id": "immutable-x",
@@ -1606,7 +1606,7 @@
       "color": "#000000",
       "description": "Immutable X (IMX) - NFT-focused Layer 2 solution",
       "website": "https://www.immutable.com",
-      "rank": 106
+      "rank": 104
     },
     {
       "id": "ontology-gas",
@@ -1633,7 +1633,7 @@
       "color": "#32A4BE",
       "description": "Ontology Gas (ONG) - Utility token for Ontology network transactions",
       "website": "https://ont.io",
-      "rank": 546
+      "rank": 560
     },
     {
       "id": "render",
@@ -1718,7 +1718,7 @@
       "color": "#000000",
       "description": "Celestia (TIA) - Modular blockchain network",
       "website": "https://celestia.org",
-      "rank": 110
+      "rank": 113
     },
     {
       "id": "bonk",
@@ -1745,7 +1745,7 @@
       "color": "#000000",
       "description": "Bonk (BONK) - Solana meme token",
       "website": "https://bonkcoin.com",
-      "rank": 81
+      "rank": 80
     },
     {
       "id": "jupiter",
@@ -1774,7 +1774,7 @@
       "color": "#000000",
       "description": "Jupiter (JUP) - Solana DEX aggregator",
       "website": "https://jup.ag",
-      "rank": 77
+      "rank": 74
     },
     {
       "id": "mantle",
@@ -1828,7 +1828,7 @@
       "color": "#000000",
       "description": "Sei (SEI) - High-performance trading blockchain",
       "website": "https://www.sei.io",
-      "rank": 94
+      "rank": 93
     },
     {
       "id": "ondo",
@@ -1855,7 +1855,7 @@
       "color": "#000000",
       "description": "Ondo (ONDO) - Real-world asset tokenization",
       "website": "https://ondo.finance",
-      "rank": 49
+      "rank": 48
     },
     {
       "id": "jasmy",
@@ -1883,7 +1883,7 @@
       "color": "#00D4FF",
       "description": "JasmyCoin (JASMY) - IoT data democracy platform",
       "website": "https://jasmy.co.jp",
-      "rank": 113
+      "rank": 110
     },
     {
       "id": "ethena",
@@ -1911,7 +1911,7 @@
       "color": "#000000",
       "description": "Ethena (ENA) - Synthetic dollar protocol governance token",
       "website": "https://www.ethena.io",
-      "rank": 61
+      "rank": 62
     },
     {
       "id": "wrapped-bitcoin",
@@ -1992,7 +1992,7 @@
       "color": "#000000",
       "description": "Internet Computer (ICP) - Decentralized cloud computing platform",
       "website": "https://internetcomputer.org",
-      "rank": 51
+      "rank": 50
     },
     {
       "id": "stacks",
@@ -2020,7 +2020,7 @@
       "color": "#5546FF",
       "description": "Stacks (STX) - Bitcoin Layer 2 for smart contracts",
       "website": "https://www.stacks.co",
-      "rank": 89
+      "rank": 88
     },
     {
       "id": "cronos",
@@ -2047,7 +2047,7 @@
       "color": "#1A1A1A",
       "description": "Cronos (CRO) - Crypto.com blockchain network",
       "website": "https://cronos.org",
-      "rank": 30
+      "rank": 31
     },
     {
       "id": "worldcoin",
@@ -2099,7 +2099,7 @@
       "color": "#000000",
       "description": "Floki (FLOKI) - Meme cryptocurrency inspired by Elon Musk's dog",
       "website": "https://floki.com",
-      "rank": 111
+      "rank": 112
     },
     {
       "id": "pepe",
@@ -2125,7 +2125,7 @@
       "color": "#000000",
       "description": "Pepe (PEPE) - Meme cryptocurrency based on the Pepe the Frog meme",
       "website": "https://pepe.vip",
-      "rank": 47
+      "rank": 46
     },
     {
       "id": "lido-dao",
@@ -2153,7 +2153,7 @@
       "color": "#000000",
       "description": "Lido DAO (LDO) - Liquid staking protocol for Ethereum and other blockchains",
       "website": "https://lido.fi",
-      "rank": 107
+      "rank": 106
     },
     {
       "id": "arweave",
@@ -2207,7 +2207,7 @@
       "color": "#000000",
       "description": "Flow (FLOW) - Developer-friendly blockchain for games and digital assets",
       "website": "https://flow.com",
-      "rank": 370
+      "rank": 368
     },
     {
       "id": "theta-fuel",
@@ -2234,7 +2234,7 @@
       "color": "#000000",
       "description": "Theta Fuel (TFUEL) - Operational token for Theta Network video delivery",
       "website": "https://www.thetatoken.org",
-      "rank": 198
+      "rank": 199
     },
     {
       "id": "axie-infinity",
@@ -2317,7 +2317,7 @@
       "color": "#000000",
       "description": "Gala (GALA) - Gaming and entertainment blockchain platform",
       "website": "https://gala.com",
-      "rank": 156
+      "rank": 157
     },
     {
       "id": "curve-dao-token",
@@ -2345,7 +2345,7 @@
       "color": "#000000",
       "description": "Curve DAO Token (CRV) - Decentralized exchange for stablecoins and similar assets",
       "website": "https://curve.fi",
-      "rank": 98
+      "rank": 97
     },
     {
       "id": "1inch",
@@ -2373,7 +2373,7 @@
       "color": "#000000",
       "description": "1inch (1INCH) - DEX aggregator protocol for finding best swap rates",
       "website": "https://1inch.io",
-      "rank": 164
+      "rank": 165
     },
     {
       "id": "enjin-coin",
@@ -2401,7 +2401,7 @@
       "color": "#000000",
       "description": "Enjin Coin (ENJ) - Blockchain platform for gaming and NFT ecosystem",
       "website": "https://enjin.io",
-      "rank": 422
+      "rank": 435
     },
     {
       "id": "basic-attention-token",
@@ -2428,7 +2428,7 @@
       "color": "#000000",
       "description": "Basic Attention Token (BAT) - Digital advertising token for Brave browser",
       "website": "https://basicattentiontoken.org",
-      "rank": 152
+      "rank": 154
     },
     {
       "id": "zilliqa",
@@ -2482,7 +2482,7 @@
       "color": "#000000",
       "description": "Harmony (ONE) - Fast and secure blockchain with sharding and cross-chain bridges",
       "website": "https://www.harmony.one",
-      "rank": 505
+      "rank": 511
     },
     {
       "id": "tokenfi",
@@ -2508,7 +2508,7 @@
       "color": "#000000",
       "description": "TokenFi (TOKEN) - Token launchpad and tokenization platform",
       "website": "https://tokenfi.com",
-      "rank": 1503
+      "rank": 1496
     },
     {
       "id": "pyth-network",
@@ -2646,7 +2646,7 @@
       "color": "#000000",
       "description": "Blur (BLUR) - NFT marketplace and aggregator platform",
       "website": "https://blur.io",
-      "rank": 373
+      "rank": 315
     },
     {
       "id": "mina-protocol",
@@ -2673,7 +2673,7 @@
       "color": "#000000",
       "description": "Mina Protocol (MINA) - Lightweight blockchain with constant-sized blockchain",
       "website": "https://minaprotocol.com",
-      "rank": 286
+      "rank": 265
     },
     {
       "id": "aioz-network",
@@ -2701,7 +2701,7 @@
       "color": "#000000",
       "description": "AIOZ Network (AIOZ) - Decentralized content delivery network",
       "website": "https://aioz.network",
-      "rank": 267
+      "rank": 280
     },
     {
       "id": "oasis-network",
@@ -2728,7 +2728,7 @@
       "color": "#000000",
       "description": "Oasis Network (ROSE) - Privacy-focused blockchain platform",
       "website": "https://oasisprotocol.org",
-      "rank": 255
+      "rank": 260
     },
     {
       "id": "conflux-network",
@@ -2783,7 +2783,7 @@
       "color": "#000000",
       "description": "Akash Network (AKT) - Decentralized cloud computing marketplace",
       "website": "https://akash.network",
-      "rank": 159
+      "rank": 160
     },
     {
       "id": "rocket-pool",
@@ -2811,7 +2811,7 @@
       "color": "#000000",
       "description": "Rocket Pool (RPL) - Decentralized Ethereum staking protocol",
       "website": "https://rocketpool.net",
-      "rank": 442
+      "rank": 434
     },
     {
       "id": "pancakeswap",
@@ -2839,7 +2839,7 @@
       "color": "#000000",
       "description": "PancakeSwap (CAKE) - Decentralized exchange on Binance Smart Chain",
       "website": "https://pancakeswap.finance",
-      "rank": 83
+      "rank": 82
     },
     {
       "id": "echelon-prime",
@@ -2867,7 +2867,7 @@
       "color": "#000000",
       "description": "Echelon Prime (PRIME) - Gaming and NFT ecosystem token",
       "website": "https://www.parallel.life",
-      "rank": 889
+      "rank": 907
     },
     {
       "id": "pendle",
@@ -2894,7 +2894,7 @@
       "color": "#000000",
       "description": "Pendle (PENDLE) - Yield trading protocol for tokenizing future yield",
       "website": "https://www.pendle.finance",
-      "rank": 133
+      "rank": 135
     },
     {
       "id": "manta-network",
@@ -2922,7 +2922,7 @@
       "color": "#000000",
       "description": "Manta Network (MANTA) - Privacy-preserving Layer 2 blockchain",
       "website": "https://manta.network",
-      "rank": 535
+      "rank": 537
     },
     {
       "id": "metis",
@@ -2949,7 +2949,7 @@
       "color": "#000000",
       "description": "Metis (METIS) - Ethereum Layer 2 scaling solution",
       "website": "https://www.metis.io",
-      "rank": 657
+      "rank": 651
     },
     {
       "id": "ronin",
@@ -2977,7 +2977,7 @@
       "color": "#000000",
       "description": "Ronin (RON) - Gaming-focused blockchain for Axie Infinity",
       "website": "https://roninchain.com",
-      "rank": 290
+      "rank": 283
     },
     {
       "id": "kava",
@@ -3004,7 +3004,7 @@
       "color": "#000000",
       "description": "Kava (KAVA) - DeFi lending and stablecoin platform",
       "website": "https://www.kava.io",
-      "rank": 315
+      "rank": 324
     },
     {
       "id": "osmosis",
@@ -3032,7 +3032,7 @@
       "color": "#000000",
       "description": "Osmosis (OSMO) - Decentralized exchange on Cosmos ecosystem",
       "website": "https://osmosis.zone",
-      "rank": 619
+      "rank": 618
     },
     {
       "id": "gnosis",
@@ -3060,7 +3060,7 @@
       "color": "#000000",
       "description": "Gnosis (GNO) - Prediction market and infrastructure platform",
       "website": "https://gnosis.io",
-      "rank": 97
+      "rank": 95
     },
     {
       "id": "livepeer",
@@ -3088,7 +3088,7 @@
       "color": "#000000",
       "description": "Livepeer (LPT) - Decentralized video streaming infrastructure",
       "website": "https://livepeer.org",
-      "rank": 179
+      "rank": 178
     },
     {
       "id": "beam",
@@ -3141,7 +3141,7 @@
       "color": "#000000",
       "description": "Celo (CELO) - Mobile-first blockchain for financial inclusion",
       "website": "https://celo.org",
-      "rank": 371
+      "rank": 362
     },
     {
       "id": "skale",
@@ -3169,7 +3169,7 @@
       "color": "#000000",
       "description": "SKALE (SKL) - Elastic sidechain network for Ethereum",
       "website": "https://skale.network",
-      "rank": 457
+      "rank": 391
     },
     {
       "id": "illuvium",
@@ -3197,7 +3197,7 @@
       "color": "#000000",
       "description": "Illuvium (ILV) - Blockchain-based RPG and NFT game",
       "website": "https://illuvium.io",
-      "rank": 532
+      "rank": 497
     },
     {
       "id": "yearn-finance",
@@ -3225,7 +3225,7 @@
       "color": "#000000",
       "description": "yearn.finance (YFI) - DeFi yield aggregator protocol",
       "website": "https://yearn.fi",
-      "rank": 192
+      "rank": 194
     },
     {
       "id": "sushi",
@@ -3253,7 +3253,7 @@
       "color": "#000000",
       "description": "SushiSwap (SUSHI) - Decentralized exchange and DeFi protocol",
       "website": "https://sushi.com",
-      "rank": 330
+      "rank": 331
     },
     {
       "id": "raydium",
@@ -3281,7 +3281,7 @@
       "color": "#000000",
       "description": "Raydium (RAY) - Automated market maker on Solana",
       "website": "https://raydium.io",
-      "rank": 150
+      "rank": 140
     },
     {
       "id": "alpha-finance",
@@ -3309,7 +3309,7 @@
       "color": "#000000",
       "description": "Alpha Finance Lab (ALPHA) - Cross-chain DeFi platform",
       "website": "https://alphafinance.io",
-      "rank": 1765
+      "rank": 2095
     },
     {
       "id": "horizen",
@@ -3337,7 +3337,7 @@
       "color": "#000000",
       "description": "Horizen (ZEN) - Privacy-focused blockchain platform",
       "website": "https://www.horizen.io",
-      "rank": 187
+      "rank": 181
     },
     {
       "id": "waves",
@@ -3363,7 +3363,7 @@
       "color": "#000000",
       "description": "Waves (WAVES) - Blockchain platform for custom tokens and dApps",
       "website": "https://waves.tech",
-      "rank": 354
+      "rank": 356
     },
     {
       "id": "iotex",
@@ -3391,7 +3391,7 @@
       "color": "#000000",
       "description": "IoTeX (IOTX) - Blockchain platform for Internet of Things",
       "website": "https://iotex.io",
-      "rank": 395
+      "rank": 399
     },
     {
       "id": "polkadot",
@@ -3446,7 +3446,7 @@
       "color": "#000000",
       "description": "Loopring (LRC) - Layer 2 DEX protocol using zkRollups",
       "website": "https://loopring.org",
-      "rank": 553
+      "rank": 573
     },
     {
       "id": "gmx",
@@ -3473,7 +3473,7 @@
       "color": "#000000",
       "description": "GMX (GMX) - Decentralized spot and perpetual exchange",
       "website": "https://gmx.io",
-      "rank": 294
+      "rank": 290
     },
     {
       "id": "legacy-frax-dollar",
@@ -3526,7 +3526,7 @@
       "color": "#000000",
       "description": "TrueUSD (TUSD) - Regulated USD-backed stablecoin",
       "website": "https://www.trusttoken.com",
-      "rank": 82
+      "rank": 81
     },
     {
       "id": "treasure",
@@ -3553,7 +3553,7 @@
       "color": "#000000",
       "description": "Magic (MAGIC) - Gaming and NFT ecosystem token",
       "website": "https://treasure.lol",
-      "rank": 695
+      "rank": 690
     },
     {
       "id": "golem",
@@ -3581,7 +3581,7 @@
       "color": "#000000",
       "description": "Golem (GLM) - Decentralized computing power marketplace",
       "website": "https://www.golem.network",
-      "rank": 163
+      "rank": 161
     },
     {
       "id": "moonbeam",
@@ -3609,7 +3609,7 @@
       "color": "#000000",
       "description": "Moonbeam (GLMR) - Ethereum-compatible smart contract platform on Polkadot",
       "website": "https://moonbeam.network",
-      "rank": 877
+      "rank": 867
     },
     {
       "id": "radiant-capital",
@@ -3637,7 +3637,7 @@
       "color": "#000000",
       "description": "Radiant Capital (RDNT) - Cross-chain lending protocol",
       "website": "https://app.radiant.capital",
-      "rank": 1172
+      "rank": 1251
     },
     {
       "id": "astar",
@@ -3664,7 +3664,7 @@
       "color": "#000000",
       "description": "Astar (ASTR) - Multi-chain smart contract platform on Polkadot",
       "website": "https://astar.network",
-      "rank": 303
+      "rank": 298
     },
     {
       "id": "kusama",
@@ -3691,7 +3691,7 @@
       "color": "#000000",
       "description": "Kusama (KSM) - Experimental blockchain network for Polkadot",
       "website": "https://kusama.network",
-      "rank": 260
+      "rank": 263
     },
     {
       "id": "band-protocol",
@@ -3719,7 +3719,7 @@
       "color": "#000000",
       "description": "Band Protocol (BAND) - Cross-chain data oracle platform",
       "website": "https://bandprotocol.com",
-      "rank": 468
+      "rank": 467
     },
     {
       "id": "api3",
@@ -3746,7 +3746,7 @@
       "color": "#000000",
       "description": "API3 (API3) - Decentralized API network for Web3",
       "website": "https://api3.org",
-      "rank": 622
+      "rank": 615
     },
     {
       "id": "uma",
@@ -3773,7 +3773,7 @@
       "color": "#000000",
       "description": "UMA (UMA) - Decentralized financial contracts platform",
       "website": "https://umaproject.org",
-      "rank": 454
+      "rank": 456
     },
     {
       "id": "ren",
@@ -3800,7 +3800,7 @@
       "color": "#000000",
       "description": "Ren (REN) - Interoperability protocol for cross-chain transfers",
       "website": "https://renproject.io",
-      "rank": 1377
+      "rank": 1382
     },
     {
       "id": "0x-protocol",
@@ -3828,7 +3828,7 @@
       "color": "#000000",
       "description": "0x (ZRX) - Open protocol for decentralized exchange",
       "website": "https://0x.org",
-      "rank": 194
+      "rank": 196
     },
     {
       "id": "balancer",
@@ -3856,7 +3856,7 @@
       "color": "#000000",
       "description": "Balancer (BAL) - Automated portfolio manager and liquidity provider",
       "website": "https://balancer.fi",
-      "rank": 933
+      "rank": 934
     },
     {
       "id": "kyber-network-crystal-v2",
@@ -3884,7 +3884,7 @@
       "color": "#000000",
       "description": "Kyber Network (KNC) - Multi-chain DEX aggregator and liquidity protocol",
       "website": "https://kyberswap.com",
-      "rank": 515
+      "rank": 541
     },
     {
       "id": "reserve-rights",
@@ -3911,7 +3911,7 @@
       "color": "#000000",
       "description": "Reserve Rights (RSR) - Stablecoin protocol governance token",
       "website": "https://reserve.org",
-      "rank": 185
+      "rank": 189
     },
     {
       "id": "nucypher",
@@ -3967,7 +3967,7 @@
       "color": "#000000",
       "description": "Keep Network (KEEP) - Privacy layer for public blockchains",
       "website": "https://keep.network",
-      "rank": 4689
+      "rank": 4731
     },
     {
       "id": "origin-protocol",
@@ -3995,7 +3995,7 @@
       "color": "#000000",
       "description": "Origin Protocol (OGN) - NFT and DeFi platform",
       "website": "https://www.originprotocol.com",
-      "rank": 797
+      "rank": 802
     },
     {
       "id": "audius",
@@ -4023,7 +4023,7 @@
       "color": "#000000",
       "description": "Audius (AUDIO) - Decentralized music streaming platform",
       "website": "https://audius.co",
-      "rank": 602
+      "rank": 611
     },
     {
       "id": "mirror-protocol",
@@ -4051,7 +4051,7 @@
       "color": "#000000",
       "description": "Mirror Protocol (MIR) - Synthetic assets protocol on Terra",
       "website": "https://mirror.finance",
-      "rank": 2359
+      "rank": 2329
     },
     {
       "id": "tellor",
@@ -4079,7 +4079,7 @@
       "color": "#000000",
       "description": "Tellor (TRB) - Decentralized oracle network",
       "website": "https://tellor.io",
-      "rank": 409
+      "rank": 412
     },
     {
       "id": "bancor",
@@ -4107,7 +4107,7 @@
       "color": "#000000",
       "description": "Bancor (BNT) - Automated market maker protocol",
       "website": "https://bancor.network",
-      "rank": 511
+      "rank": 512
     },
     {
       "id": "augur",
@@ -4135,7 +4135,7 @@
       "color": "#000000",
       "description": "Augur (REP) - Decentralized prediction market platform",
       "website": "https://www.augur.net",
-      "rank": 947
+      "rank": 943
     },
     {
       "id": "numeraire",
@@ -4163,7 +4163,7 @@
       "color": "#000000",
       "description": "Numeraire (NMR) - Cryptographic token for machine learning competitions",
       "website": "https://numer.ai",
-      "rank": 369
+      "rank": 365
     },
     {
       "id": "status",
@@ -4191,7 +4191,7 @@
       "color": "#000000",
       "description": "Status (SNT) - Mobile Ethereum client and messaging platform",
       "website": "https://status.im",
-      "rank": 386
+      "rank": 387
     },
     {
       "id": "decred",
@@ -4217,7 +4217,7 @@
       "color": "#000000",
       "description": "Decred (DCR) - Self-governing cryptocurrency with hybrid consensus",
       "website": "https://www.decred.org",
-      "rank": 93
+      "rank": 92
     },
     {
       "id": "nervos-network",
@@ -4244,7 +4244,7 @@
       "color": "#000000",
       "description": "Nervos Network (CKB) - Layered blockchain network for decentralized applications",
       "website": "https://www.nervos.org",
-      "rank": 291
+      "rank": 289
     },
     {
       "id": "icon",
@@ -4271,7 +4271,7 @@
       "color": "#000000",
       "description": "ICON (ICX) - Blockchain network for connecting independent blockchains",
       "website": "https://icon.foundation",
-      "rank": 450
+      "rank": 452
     },
     {
       "id": "siacoin",
@@ -4299,7 +4299,7 @@
       "color": "#000000",
       "description": "Siacoin (SC) - Decentralized cloud storage platform",
       "website": "https://sia.tech",
-      "rank": 359
+      "rank": 351
     },
     {
       "id": "digibyte",
@@ -4327,7 +4327,7 @@
       "color": "#000000",
       "description": "DigiByte (DGB) - Fast and secure blockchain platform",
       "website": "https://www.digibyte.io",
-      "rank": 268
+      "rank": 267
     },
     {
       "id": "steem",
@@ -4354,7 +4354,7 @@
       "color": "#000000",
       "description": "Steem (STEEM) - Blockchain-based social media platform",
       "website": "https://steem.com",
-      "rank": 504
+      "rank": 510
     },
     {
       "id": "reddcoin",
@@ -4382,7 +4382,7 @@
       "color": "#000000",
       "description": "Reddcoin (RDD) - Social cryptocurrency for tipping and payments",
       "website": "https://reddcoin.com",
-      "rank": 4967
+      "rank": 4979
     },
     {
       "id": "verge",
@@ -4462,7 +4462,7 @@
       "color": "#000000",
       "description": "PIVX (PIVX) - Privacy-focused cryptocurrency with proof-of-stake",
       "website": "https://pivx.org",
-      "rank": 1029
+      "rank": 1020
     },
     {
       "id": "komodo",
@@ -4489,7 +4489,7 @@
       "color": "#000000",
       "description": "Komodo (KMD) - Blockchain platform with privacy and security features",
       "website": "https://komodoplatform.com",
-      "rank": 2266
+      "rank": 2181
     },
     {
       "id": "bitcoin-gold",
@@ -4515,7 +4515,7 @@
       "color": "#000000",
       "description": "Bitcoin Gold (BTG) - Bitcoin hard fork for decentralized mining",
       "website": "https://bitcoingold.org",
-      "rank": 1084
+      "rank": 776
     },
     {
       "id": "vertcoin",
@@ -4541,7 +4541,7 @@
       "color": "#000000",
       "description": "Vertcoin (VTC) - ASIC-resistant cryptocurrency",
       "website": "https://vertcoin.org",
-      "rank": 1289
+      "rank": 1295
     },
     {
       "id": "ravencoin",
@@ -4568,7 +4568,7 @@
       "color": "#000000",
       "description": "Ravencoin (RVN) - Blockchain optimized for asset transfer",
       "website": "https://ravencoin.org",
-      "rank": 188
+      "rank": 187
     },
     {
       "id": "bitcoin-diamond",
@@ -4621,7 +4621,7 @@
       "color": "#000000",
       "description": "Syscoin (SYS) - Blockchain platform for decentralized commerce",
       "website": "https://syscoin.org",
-      "rank": 972
+      "rank": 973
     },
     {
       "id": "usd1",
@@ -4676,7 +4676,7 @@
       "color": "#000000",
       "description": "Helium (HNT) - Decentralized wireless network",
       "website": "https://www.helium.com",
-      "rank": 128
+      "rank": 127
     },
     {
       "id": "jito",
@@ -4704,7 +4704,7 @@
       "color": "#000000",
       "description": "Jito (JTO) - Solana MEV infrastructure",
       "website": "https://www.jito.wtf",
-      "rank": 165
+      "rank": 166
     },
     {
       "id": "dogwifhat",
@@ -4761,7 +4761,7 @@
       "color": "#000000",
       "description": "Artificial Superintelligence Alliance (FET) - Web3-native LLM",
       "website": "https://superintelligence.io/",
-      "rank": 78
+      "rank": 79
     },
     {
       "id": "singularitynet",
@@ -4789,7 +4789,7 @@
       "color": "#000000",
       "description": "SingularityNET (AGIX) - Decentralized AI marketplace",
       "website": "https://singularitynet.io",
-      "rank": 4406
+      "rank": 4372
     },
     {
       "id": "ocean-protocol",
@@ -4817,7 +4817,7 @@
       "color": "#000000",
       "description": "Ocean Protocol (OCEAN) - Data exchange protocol",
       "website": "https://oceanprotocol.com",
-      "rank": 4069
+      "rank": 4204
     },
     {
       "id": "alex-lab",
@@ -4845,7 +4845,7 @@
       "color": "#000000",
       "description": "Alex Lab (ALEX) - Bitcoin DeFi protocol",
       "website": "https://www.alexlab.co",
-      "rank": 2362
+      "rank": 2355
     },
     {
       "id": "game-federation",
@@ -4873,7 +4873,7 @@
       "color": "#000000",
       "description": "Game Federation (GFT) - Gaming platform token",
       "website": "https://gamefederation.io",
-      "rank": 3192
+      "rank": 3188
     },
     {
       "id": "fusionist",
@@ -4901,7 +4901,7 @@
       "color": "#000000",
       "description": "Fusionist (ACE) - Gaming and NFT ecosystem",
       "website": "https://www.fusionist.io",
-      "rank": 897
+      "rank": 899
     },
     {
       "id": "nfp",
@@ -4929,7 +4929,7 @@
       "color": "#000000",
       "description": "NFPrompt (NFP) - AI-powered NFT platform",
       "website": "https://nfprompt.com",
-      "rank": 1101
+      "rank": 1107
     },
     {
       "id": "sleepless-ai",
@@ -4957,7 +4957,7 @@
       "color": "#000000",
       "description": "Sleepless AI (AI) - AI-powered gaming platform",
       "website": "https://www.sleeplessai.net",
-      "rank": 963
+      "rank": 971
     },
     {
       "id": "xai",
@@ -4984,7 +4984,7 @@
       "color": "#000000",
       "description": "XAI (XAI) - Layer 3 blockchain for gaming",
       "website": "https://xai.games",
-      "rank": 705
+      "rank": 708
     },
     {
       "id": "altlayer",
@@ -5012,7 +5012,7 @@
       "color": "#000000",
       "description": "AltLayer (ALT) - Restaked rollup infrastructure",
       "website": "https://altlayer.io",
-      "rank": 436
+      "rank": 457
     },
     {
       "id": "pixels",
@@ -5040,7 +5040,7 @@
       "color": "#000000",
       "description": "Pixels (PIXEL) - Web3 farming game",
       "website": "https://pixels.xyz",
-      "rank": 551
+      "rank": 558
     },
     {
       "id": "portal",
@@ -5067,7 +5067,7 @@
       "color": "#000000",
       "description": "Portal (PORTAL) - Cross-chain gaming platform",
       "website": "https://portal.games",
-      "rank": 1082
+      "rank": 1097
     },
     {
       "id": "pudgy-penguins",
@@ -5095,7 +5095,7 @@
       "color": "#000000",
       "description": "Pudgy Penguins (PENGU) - NFT collection token",
       "website": "https://www.pudgypenguins.com",
-      "rank": 88
+      "rank": 87
     },
     {
       "id": "myro",
@@ -5122,7 +5122,7 @@
       "color": "#000000",
       "description": "Myro (MYRO) - Solana meme token",
       "website": "https://www.myro.vip",
-      "rank": 1431
+      "rank": 1426
     },
     {
       "id": "canton",
@@ -5203,7 +5203,7 @@
       "color": "#003087",
       "description": "PayPal USD (PYUSD) - PayPal-issued stablecoin",
       "website": "https://www.paypal.com/pyusd",
-      "rank": 22
+      "rank": 23
     },
     {
       "id": "shiba-inu",
@@ -5313,7 +5313,7 @@
       "color": "#000000",
       "description": "MemeCore (M) - MemeCore token",
       "website": "https://coinmarketcap.com/currencies/memecore",
-      "rank": 31
+      "rank": 30
     },
     {
       "id": "bitget-token",
@@ -5340,7 +5340,7 @@
       "color": "#000000",
       "description": "Bitget Token (BGB) - Bitget exchange token",
       "website": "https://www.bitget.com",
-      "rank": 48
+      "rank": 47
     },
     {
       "id": "aster",
@@ -5392,7 +5392,7 @@
       "color": "#000000",
       "description": "Global Dollar (USDG) - Stablecoin",
       "website": "https://coinmarketcap.com/currencies/global-dollar-usdg",
-      "rank": 39
+      "rank": 38
     },
     {
       "id": "bittensor",
@@ -5447,7 +5447,7 @@
       "color": "#000000",
       "description": "OKB (OKB) - OKX exchange token",
       "website": "https://www.okx.com",
-      "rank": 40
+      "rank": 39
     },
     {
       "id": "ripple-usd",
@@ -5474,7 +5474,7 @@
       "color": "#000000",
       "description": "Ripple USD (RLUSD) - Ripple-issued stablecoin",
       "website": "https://ripple.com",
-      "rank": 45
+      "rank": 51
     },
     {
       "id": "sky",
@@ -5499,7 +5499,7 @@
       "color": "#000000",
       "description": "Sky (SKY) - Sky token",
       "website": "https://coinmarketcap.com/currencies/sky",
-      "rank": 38
+      "rank": 41
     },
     {
       "id": "myx-finance",
@@ -5526,7 +5526,7 @@
       "color": "#000000",
       "description": "MYX Finance (MYX) - MYX Finance protocol",
       "website": "https://myx.finance",
-      "rank": 282
+      "rank": 319
     },
     {
       "id": "ethereum-classic",
@@ -5553,7 +5553,7 @@
       "color": "#328332",
       "description": "Ethereum Classic (ETC) - Original Ethereum chain",
       "website": "https://ethereumclassic.org",
-      "rank": 50
+      "rank": 49
     },
     {
       "id": "pi-network",
@@ -5578,7 +5578,7 @@
       "color": "#1B9CFC",
       "description": "Pi (PI) - Pi Network",
       "website": "https://minepi.com",
-      "rank": 41
+      "rank": 40
     },
     {
       "id": "usdd",
@@ -5605,7 +5605,7 @@
       "color": "#000000",
       "description": "USDD (USDD) - Tron ecosystem stablecoin",
       "website": "https://usdd.io",
-      "rank": 46
+      "rank": 43
     },
     {
       "id": "kaspa",
@@ -5632,7 +5632,7 @@
       "color": "#000000",
       "description": "Kaspa (KAS) - Kaspa blockchain",
       "website": "https://kaspa.org",
-      "rank": 58
+      "rank": 57
     },
     {
       "id": "midnight",
@@ -5659,7 +5659,7 @@
       "color": "#000000",
       "description": "Midnight (NIGHT) - Midnight Network",
       "website": "https://midnight.network",
-      "rank": 64
+      "rank": 61
     },
     {
       "id": "gatetoken",
@@ -5687,7 +5687,7 @@
       "color": "#2354E6",
       "description": "GateToken (GT) - Gate.io exchange token",
       "website": "https://www.gate.io",
-      "rank": 62
+      "rank": 63
     },
     {
       "id": "flare",
@@ -5714,7 +5714,7 @@
       "color": "#E01E37",
       "description": "Flare (FLR) - Flare blockchain",
       "website": "https://flare.network",
-      "rank": 67
+      "rank": 66
     },
     {
       "id": "official-trump",
@@ -5740,7 +5740,7 @@
       "color": "#000000",
       "description": "OFFICIAL TRUMP (TRUMP) - Trump-themed meme token",
       "website": "https://coinmarketcap.com/currencies/official-trump",
-      "rank": 66
+      "rank": 65
     },
     {
       "id": "united-stables",
@@ -5767,7 +5767,7 @@
       "color": "#000000",
       "description": "United Stables (U) - Stablecoin",
       "website": "https://coinmarketcap.com/currencies/united-stables",
-      "rank": 53
+      "rank": 52
     },
     {
       "id": "xdc-network",
@@ -5794,7 +5794,7 @@
       "color": "#1B67FF",
       "description": "XDC Network (XDC) - XDC blockchain network",
       "website": "https://xinfin.org",
-      "rank": 70
+      "rank": 71
     },
     {
       "id": "layerzero",
@@ -5848,7 +5848,7 @@
       "color": "#000000",
       "description": "Pump.fun (PUMP) - Pump.fun platform token",
       "website": "https://pump.fun",
-      "rank": 76
+      "rank": 77
     },
     {
       "id": "nexo",
@@ -5875,7 +5875,7 @@
       "color": "#1A4199",
       "description": "Nexo (NEXO) - Nexo lending platform token",
       "website": "https://nexo.com",
-      "rank": 74
+      "rank": 75
     },
     {
       "id": "euro-coin",
@@ -5903,7 +5903,7 @@
       "color": "#003399",
       "description": "Euro Coin (EURC) - Circle euro stablecoin",
       "website": "https://www.circle.com/en/euro-coin",
-      "rank": 87
+      "rank": 85
     },
     {
       "id": "pippin",
@@ -5928,7 +5928,7 @@
       "color": "#000000",
       "description": "pippin (PIPPIN) - Pippin token",
       "website": "https://coinmarketcap.com/currencies/pippin",
-      "rank": 331
+      "rank": 358
     },
     {
       "id": "morpho",
@@ -5955,7 +5955,7 @@
       "color": "#000000",
       "description": "Morpho (MORPHO) - Morpho lending protocol",
       "website": "https://morpho.org",
-      "rank": 71
+      "rank": 70
     },
     {
       "id": "river",
@@ -5980,7 +5980,7 @@
       "color": "#000000",
       "description": "River (RIVER) - River token",
       "website": "https://coinmarketcap.com/currencies/river",
-      "rank": 96
+      "rank": 98
     },
     {
       "id": "story-protocol",
@@ -6034,7 +6034,7 @@
       "color": "#000000",
       "description": "First Digital USD (FDUSD) - First Digital dollar stablecoin",
       "website": "https://firstdigitalusd.com",
-      "rank": 90
+      "rank": 89
     },
     {
       "id": "stable",
@@ -6060,7 +6060,7 @@
       "color": "#000000",
       "description": "Stable (STABLE) - Stable token",
       "website": "https://coinmarketcap.com/currencies/stable",
-      "rank": 80
+      "rank": 69
     },
     {
       "id": "just",
@@ -6088,7 +6088,7 @@
       "color": "#000000",
       "description": "JUST (JST) - Just protocol token",
       "website": "https://just.network",
-      "rank": 79
+      "rank": 78
     },
     {
       "id": "virtuals-protocol",
@@ -6115,7 +6115,7 @@
       "color": "#000000",
       "description": "Virtuals Protocol (VIRTUAL) - Virtuals Protocol",
       "website": "https://virtuals.io",
-      "rank": 85
+      "rank": 83
     },
     {
       "id": "lighter",
@@ -6142,7 +6142,7 @@
       "color": "#000000",
       "description": "Lighter (LIT) - Lighter token",
       "website": "https://lighter.xyz",
-      "rank": 126
+      "rank": 125
     },
     {
       "id": "humanity-protocol",
@@ -6168,7 +6168,7 @@
       "color": "#000000",
       "description": "Humanity Protocol (H) - Humanity Protocol",
       "website": "https://humanityprotocol.xyz",
-      "rank": 122
+      "rank": 123
     },
     {
       "id": "kaia",
@@ -6194,7 +6194,7 @@
       "color": "#000000",
       "description": "Kaia (KAIA) - Kaia blockchain",
       "website": "https://kaia.network",
-      "rank": 105
+      "rank": 101
     }
   ]
 }
